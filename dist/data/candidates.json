@@ -1,11 +1,5 @@
 {
-  "checked_at": "2026-11-11T23:08:29.617748+00:00",
+  "checked_at": "2026-11-12T17:38:29.101763+00:00",
   "city": "Jardín",
-  "candidates": [
-    {
-      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3933009",
-      "status": "unreadable",
-      "reason": "No se pudo abrir la ficha individual; no incorporado al catálogo."
-    }
-  ]
+  "candidates": []
 }

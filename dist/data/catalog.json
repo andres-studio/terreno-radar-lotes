@@ -7,15 +7,15 @@
       "city": "Jardín",
       "department": "Antioquia",
       "source": "Doomos",
-      "title": "Lote en unidad cerrada · Comfenalco",
+      "title": "VENTA DE LOTE EN JARDIN, SECTOR COMFENALCO, UD CERRADA",
       "id": "jardin-1",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "status": "observed",
-      "sector": "Comfenalco",
-      "price": 580000000,
-      "area": 2160,
+      "sector": "",
+      "price": 580000000.0,
+      "area": null,
       "kind": "listing",
-      "description": "Precio y área publicados sin variación respecto de la captura inicial. Una publicación coincidente de MIACTIVO (código 8934771) describe glamping con baño, cocineta y jacuzzi: confirmar qué mejoras incluye la venta. Administración anunciada de $140.000. Excluido de las estadísticas de suelo sin mejoras. Documentos y disponibilidad pendientes.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "price_from": false,
       "area_from": false,
       "history": [
@@ -25,9 +25,16 @@
           "area": 2160,
           "price_from": false,
           "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 580000000.0,
+          "area": null,
+          "price_from": false,
+          "area_from": false
         }
       ],
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:35:00Z",
       "observation_method": "direct_public_page",
@@ -44,6 +51,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 580000000.0,
+          "area": null
         }
       ],
       "source_cache_note": null,
@@ -160,13 +173,13 @@
       "source": "Más Verde · anunciante",
       "title": "Monte Horeb Jardín Campestre",
       "id": "jardin-2",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "status": "observed",
       "sector": "Sector por confirmar",
       "price": 395000000,
       "area": 1890,
       "kind": "project",
-      "description": "Proyecto con varios lotes. Precio desde $395 millones y áreas desde 1.890 m²: mínimos independientes, sin inferir precio por m².",
+      "description": "Proyecto de varios lotes. Precio y área son mínimos independientes; no representan un mismo lote ni un precio por m².",
       "price_from": true,
       "area_from": true,
       "history": [
@@ -178,7 +191,7 @@
           "area_from": true
         }
       ],
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:35:00Z",
       "observation_method": "direct_public_page",
@@ -195,6 +208,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 395000000,
+          "area": 1890
         }
       ],
       "source_cache_note": null,
@@ -278,13 +297,13 @@
       "city": "Jardín",
       "department": "Antioquia",
       "price": 330000000,
-      "area": 5340,
+      "area": 5340.0,
       "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
       "source": "MIACTIVO",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "status": "observed",
       "kind": "listing",
-      "description": "Área y situación jurídica anunciadas por el vendedor, pendientes de contraste documental. No se ha verificado disponibilidad.",
+      "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "history": [
         {
           "at": "2026-11-02T15:40:00Z",
@@ -292,7 +311,7 @@
           "area": 5340
         }
       ],
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:40:00Z",
       "observation_method": "direct_public_page",
@@ -309,6 +328,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 330000000,
+          "area": 5340.0
         }
       ],
       "source_cache_note": null,
@@ -420,13 +445,13 @@
       "city": "Jardín",
       "department": "Antioquia",
       "price": 300000000,
-      "area": 12000,
+      "area": 12000.0,
       "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
       "source": "Comercial Inmobiliaria",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "status": "observed",
       "kind": "listing",
-      "description": "Área y situación jurídica anunciadas por el vendedor, pendientes de contraste documental. No se ha verificado disponibilidad.",
+      "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "history": [
         {
           "at": "2026-11-02T15:40:00Z",
@@ -434,7 +459,7 @@
           "area": 12000
         }
       ],
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:40:00Z",
       "observation_method": "direct_public_page",
@@ -451,6 +476,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 300000000,
+          "area": 12000.0
         }
       ],
       "source_cache_note": null,
@@ -551,21 +582,21 @@
       "city": "Jardín",
       "department": "Antioquia",
       "price": 290000000,
-      "area": 2860,
+      "area": 2860.0,
       "url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
       "source": "MIACTIVO",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "El anuncio incluye una cabaña de 38 m². El precio corresponde al conjunto y no se usa en estadísticas de suelo sin mejoras. Área del terreno por contrastar en escritura; servicios y disponibilidad pendientes.",
+      "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
@@ -587,6 +618,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 290000000,
+          "area": 2860.0
         }
       ],
       "includes_building": true,
@@ -699,21 +736,21 @@
       "city": "Jardín",
       "department": "Antioquia",
       "price": 500000000,
-      "area": 1512,
+      "area": 1512.0,
       "url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
       "source": "MIACTIVO",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "El anunciante publica lote de 1.512 m² y administración de $100.000. Las condiciones de construcción y servicios requieren soporte de la parcelación y Planeación; disponibilidad sin confirmar.",
+      "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
@@ -735,6 +772,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 500000000,
+          "area": 1512.0
         }
       ],
       "administration": 100000,
@@ -837,35 +880,43 @@
       },
       "advertiser_id": "miactivo",
       "advertiser": "MIACTIVO",
-      "advertiser_identified": true
+      "advertiser_identified": true,
+      "includes_building": false
     },
     {
       "id": "jardin-verdun-3428504",
-      "title": "Lote rural · Verdún · 13.670 m²",
-      "sector": "Verdún",
+      "title": "Lote en Venta en Jardín, Jardín, Jardín",
+      "sector": "",
       "city": "Jardín",
       "department": "Antioquia",
-      "price": 658000000,
-      "area": 13670,
+      "price": 658000000.0,
+      "area": null,
       "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
       "source": "Ciencuadras",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
           "price": 658000000,
           "area": 13670,
+          "price_from": false,
+          "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 658000000.0,
+          "area": null,
           "price_from": false,
           "area_from": false
         }
@@ -882,6 +933,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 658000000.0,
+          "area": null
         }
       ],
       "photos": [
@@ -962,35 +1019,43 @@
       },
       "advertiser_id": "ciencuadras-825391",
       "advertiser": "Anunciante 825391 · identidad pendiente",
-      "advertiser_identified": false
+      "advertiser_identified": false,
+      "includes_building": false
     },
     {
       "id": "jardin-verdun-3428560",
-      "title": "Lote rural · Verdún · 4.123 m²",
-      "sector": "Verdún",
+      "title": "Lote en Venta en Jardín, Jardín, Jardín",
+      "sector": "",
       "city": "Jardín",
       "department": "Antioquia",
-      "price": 435000000,
-      "area": 4123,
+      "price": 435000000.0,
+      "area": null,
       "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
       "source": "Ciencuadras",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
           "price": 435000000,
           "area": 4123,
+          "price_from": false,
+          "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 435000000.0,
+          "area": null,
           "price_from": false,
           "area_from": false
         }
@@ -1007,6 +1072,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 435000000.0,
+          "area": null
         }
       ],
       "photos": [
@@ -1087,35 +1158,43 @@
       },
       "advertiser_id": "ciencuadras-825391",
       "advertiser": "Anunciante 825391 · identidad pendiente",
-      "advertiser_identified": false
+      "advertiser_identified": false,
+      "includes_building": false
     },
     {
       "id": "jardin-verdun-3428548",
-      "title": "Lote rural · Verdún · 3.239 m²",
-      "sector": "Verdún",
+      "title": "Lote en Venta en Jardín, Jardín, Jardín",
+      "sector": "",
       "city": "Jardín",
       "department": "Antioquia",
-      "price": 334000000,
-      "area": 3239,
+      "price": 334000000.0,
+      "area": null,
       "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
       "source": "Ciencuadras",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
           "price": 334000000,
           "area": 3239,
+          "price_from": false,
+          "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 334000000.0,
+          "area": null,
           "price_from": false,
           "area_from": false
         }
@@ -1132,6 +1211,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 334000000.0,
+          "area": null
         }
       ],
       "photos": [
@@ -1212,35 +1297,43 @@
       },
       "advertiser_id": "ciencuadras-825391",
       "advertiser": "Anunciante 825391 · identidad pendiente",
-      "advertiser_identified": false
+      "advertiser_identified": false,
+      "includes_building": false
     },
     {
       "id": "jardin-verdun-3428529",
-      "title": "Lote rural · Verdún · 3.698 m²",
-      "sector": "Verdún",
+      "title": "Lote en Venta en Jardín, Jardín, Jardín",
+      "sector": "",
       "city": "Jardín",
       "department": "Antioquia",
-      "price": 365000000,
-      "area": 3698,
+      "price": 365000000.0,
+      "area": null,
       "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
       "source": "Ciencuadras",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
           "price": 365000000,
           "area": 3698,
+          "price_from": false,
+          "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 365000000.0,
+          "area": null,
           "price_from": false,
           "area_from": false
         }
@@ -1257,6 +1350,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 365000000.0,
+          "area": null
         }
       ],
       "photos": [
@@ -1337,35 +1436,43 @@
       },
       "advertiser_id": "ciencuadras-825391",
       "advertiser": "Anunciante 825391 · identidad pendiente",
-      "advertiser_identified": false
+      "advertiser_identified": false,
+      "includes_building": false
     },
     {
       "id": "jardin-salada-3446176",
-      "title": "Lote campestre · La Salada · 5.000 m²",
-      "sector": "La Salada",
+      "title": "Lote en Venta en Jardín, Jardín, Jardín",
+      "sector": "",
       "city": "Jardín",
       "department": "Antioquia",
-      "price": 550000000,
-      "area": 5000,
+      "price": 550000000.0,
+      "area": null,
       "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
       "source": "Ciencuadras · Paola Ramírez",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "Anuncio de 5.000 m² en el sector La Salada. Las afirmaciones comerciales sobre proyectos turísticos, documentación y valorización no han sido verificadas. Uso del suelo, servicios y disponibilidad pendientes.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
           "price": 550000000,
           "area": 5000,
+          "price_from": false,
+          "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 550000000.0,
+          "area": null,
           "price_from": false,
           "area_from": false
         }
@@ -1382,6 +1489,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 550000000.0,
+          "area": null
         }
       ],
       "photos": [
@@ -1465,35 +1578,43 @@
       },
       "advertiser_id": "paola-ramirez",
       "advertiser": "Paola Ramírez",
-      "advertiser_identified": true
+      "advertiser_identified": true,
+      "includes_building": false
     },
     {
       "id": "jardin-floresta-839065",
-      "title": "Lote rural · La Floresta · 8,96 ha",
-      "sector": "La Floresta",
+      "title": "VENTA LOTE EN JARDIN, SECTOR LA FLORESTA",
+      "sector": "",
       "city": "Jardín",
       "department": "Antioquia",
-      "price": 300000000,
-      "area": 89600,
+      "price": 300000000.0,
+      "area": null,
       "url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
       "source": "Doomos",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "El anuncio publica 89.600 m² (8,96 hectáreas) por $300 millones. Superficie mucho mayor que las parcelas campestres; no inferir equivalencia de acceso, servicios o edificabilidad. Área y disponibilidad pendientes.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
           "price": 300000000,
           "area": 89600,
+          "price_from": false,
+          "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 300000000.0,
+          "area": null,
           "price_from": false,
           "area_from": false
         }
@@ -1510,6 +1631,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 300000000.0,
+          "area": null
         }
       ],
       "photos": [
@@ -1611,35 +1738,43 @@
       },
       "advertiser_id": "miactivo",
       "advertiser": "MIACTIVO",
-      "advertiser_identified": true
+      "advertiser_identified": true,
+      "includes_building": false
     },
     {
       "id": "jardin-estadio-829258",
-      "title": "Lote 1 · Sector Estadio · 600 m²",
-      "sector": "Estadio",
+      "title": "VENTA DE LOTES EN JARDIN, SECTOR ESTADIO, UD CERRADA",
+      "sector": "",
       "city": "Jardín",
       "department": "Antioquia",
-      "price": 280000000,
-      "area": 600,
+      "price": 280000000.0,
+      "area": null,
       "url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
       "source": "Doomos · MIACTIVO",
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-11T23:19:11.284522+00:00",
-      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
       "availability_confirmed": false,
       "observation_method": "direct_public_page",
       "source_cache_note": null,
-      "description": "Se registra el lote 1: 600 m² y precio publicado de $280 millones. Otra publicación coincidente anuncia $240 millones bajo condición de pago en efectivo; confirmar vigencia y términos con el vendedor. Los otros lotes mencionados no se cuentan como registros separados. Área y licencias pendientes.",
+      "description": "Datos del anuncio público. Consulta la fuente para la descripción completa; documentos pendientes.",
       "history": [
         {
           "at": "2026-11-11T23:08:29.617748+00:00",
           "price": 280000000,
           "area": 600,
+          "price_from": false,
+          "area_from": false
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "price": 280000000.0,
+          "area": null,
           "price_from": false,
           "area_from": false
         }
@@ -1656,6 +1791,12 @@
           "at": "2026-11-11T23:19:11.284522+00:00",
           "method": "direct_public_page",
           "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 280000000.0,
+          "area": null
         }
       ],
       "cash_offer_price": 240000000,
@@ -1761,7 +1902,8 @@
       },
       "advertiser_id": "miactivo",
       "advertiser": "MIACTIVO",
-      "advertiser_identified": true
+      "advertiser_identified": true,
+      "includes_building": false
     },
     {
       "id": "jardin-selecta-9504419",
@@ -1775,17 +1917,17 @@
       "title": "Morro Amarillo · 4.000 m²",
       "sector": "Morro Amarillo",
       "price": 600000000,
-      "area": 4000,
+      "area": 4000.0,
       "kind": "listing",
       "includes_building": false,
       "price_from": false,
       "area_from": false,
-      "description": "El vendedor ofrece un terreno rural con una plataforma de 150 m². Sitúa el acceso a unos 6 km del parque y a 3 km de la carretera principal, cerca del Hotel Patio Bonito. Los tiempos de viaje y el estado de acceso son afirmaciones comerciales. No se aportaron licencias ni certificados prediales.",
+      "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "source_description_summary": "El vendedor ofrece un terreno rural con una plataforma de 150 m². Sitúa el acceso a unos 6 km del parque y a 3 km de la carretera principal, cerca del Hotel Patio Bonito. Los tiempos de viaje y el estado de acceso son afirmaciones comerciales. No se aportaron licencias ni certificados prediales.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -1804,6 +1946,12 @@
           "at": "2026-11-11T23:36:15.221666+00:00",
           "method": "direct_public_page",
           "purpose": "diversificación de fuentes"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 600000000,
+          "area": 4000.0
         }
       ],
       "link_check": {
@@ -1876,7 +2024,8 @@
             "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
           }
         ]
-      }
+      },
+      "source_cache_note": null
     },
     {
       "id": "jardin-diaz-8015518",
@@ -1890,17 +2039,17 @@
       "title": "Serranías · 9.300 m²",
       "sector": "Serranías",
       "price": 700000000,
-      "area": 9300,
+      "area": 9300.0,
       "kind": "listing",
       "includes_building": false,
       "price_from": false,
       "area_from": false,
-      "description": "La publicación presenta un lote con agua, vistas abiertas y espacio para camping. Menciona cercanía al casco urbano, transporte y parqueadero para visitantes. La viabilidad de construir o desarrollar un proyecto requiere concepto de Planeación y documentos del predio.",
+      "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "source_description_summary": "La publicación presenta un lote con agua, vistas abiertas y espacio para camping. Menciona cercanía al casco urbano, transporte y parqueadero para visitantes. La viabilidad de construir o desarrollar un proyecto requiere concepto de Planeación y documentos del predio.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -1919,6 +2068,12 @@
           "at": "2026-11-11T23:36:15.221666+00:00",
           "method": "direct_public_page",
           "purpose": "diversificación de fuentes"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 700000000,
+          "area": 9300.0
         }
       ],
       "link_check": {
@@ -1985,7 +2140,8 @@
             "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
           }
         ]
-      }
+      },
+      "source_cache_note": null
     },
     {
       "id": "jardin-diaz-8391793",
@@ -1999,17 +2155,17 @@
       "title": "Serranía · 3.200 m²",
       "sector": "Serranía",
       "price": 320000000,
-      "area": 3200,
+      "area": 3200.0,
       "kind": "listing",
       "includes_building": false,
       "price_from": false,
       "area_from": false,
-      "description": "El anuncio ofrece un lote campestre con árboles frutales y acceso a agua. Indica proximidad a la zona urbana y al transporte público. No publica soportes de disponibilidad de servicios, uso del suelo ni licencia de subdivisión.",
+      "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "source_description_summary": "El anuncio ofrece un lote campestre con árboles frutales y acceso a agua. Indica proximidad a la zona urbana y al transporte público. No publica soportes de disponibilidad de servicios, uso del suelo ni licencia de subdivisión.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -2028,6 +2184,12 @@
           "at": "2026-11-11T23:36:15.221666+00:00",
           "method": "direct_public_page",
           "purpose": "diversificación de fuentes"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 320000000,
+          "area": 3200.0
         }
       ],
       "link_check": {
@@ -2094,7 +2256,8 @@
             "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
           }
         ]
-      }
+      },
+      "source_cache_note": null
     },
     {
       "id": "jardin-buho-1729504",
@@ -2108,7 +2271,7 @@
       "title": "Alejandría · La Salada · proyecto",
       "sector": "La Salada · Alejandría",
       "price": 350000000,
-      "area": 4026,
+      "area": 4026.0,
       "kind": "project",
       "includes_building": false,
       "price_from": true,
@@ -2116,9 +2279,9 @@
       "description": "El Búho anuncia varios terrenos de 4.026, 5.160, 5.400 y 5.900 m² en el sector Alejandría. Señala relieve ondulado, cercanía al río y unos 1.000 metros hasta el parque. La cabecera publica $350 millones y 4.026 m², pero no asigna precio a cada unidad. Se registra como oferta de varios lotes, excluida de la comparación de $/m². Afirma escrituración completa sin adjuntar el soporte.",
       "source_description_summary": "El Búho anuncia varios terrenos de 4.026, 5.160, 5.400 y 5.900 m² en el sector Alejandría. Señala relieve ondulado, cercanía al río y unos 1.000 metros hasta el parque. La cabecera publica $350 millones y 4.026 m², pero no asigna precio a cada unidad. Se registra como oferta de varios lotes, excluida de la comparación de $/m². Afirma escrituración completa sin adjuntar el soporte.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -2137,6 +2300,12 @@
           "at": "2026-11-11T23:36:15.221666+00:00",
           "method": "direct_public_page",
           "purpose": "diversificación de fuentes"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 350000000,
+          "area": 4026.0
         }
       ],
       "link_check": {
@@ -2202,7 +2371,8 @@
             "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
           }
         ]
-      }
+      },
+      "source_cache_note": null
     },
     {
       "id": "jardin-emisa-1629339",
@@ -2216,7 +2386,7 @@
       "title": "Lote urbano · Estadio Citará · 121 m²",
       "sector": "Estadio Citará",
       "price": 340000000,
-      "area": 121,
+      "area": 121.0,
       "kind": "listing",
       "includes_building": false,
       "price_from": false,
@@ -2224,9 +2394,9 @@
       "description": "Emisa ofrece un predio urbano cerca del estadio municipal. Publica medidas de 7 por 17,4 metros, un área total de 121 m² y predial anual de $802.000. Afirma que existe licencia para cinco viviendas en tres niveles; falta obtener la resolución, planos y vigencia. Las medidas y el área deben contrastarse con la escritura.",
       "source_description_summary": "Emisa ofrece un predio urbano cerca del estadio municipal. Publica medidas de 7 por 17,4 metros, un área total de 121 m² y predial anual de $802.000. Afirma que existe licencia para cinco viviendas en tres niveles; falta obtener la resolución, planos y vigencia. Las medidas y el área deben contrastarse con la escritura.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-12T17:38:29.101763+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-12T17:38:29.101763+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -2245,6 +2415,12 @@
           "at": "2026-11-11T23:36:15.221666+00:00",
           "method": "direct_public_page",
           "purpose": "diversificación de fuentes"
+        },
+        {
+          "at": "2026-11-12T17:38:29.101763+00:00",
+          "method": "direct_public_page",
+          "price": 340000000,
+          "area": 121.0
         }
       ],
       "link_check": {
@@ -2310,7 +2486,8 @@
             "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
           }
         ]
-      }
+      },
+      "source_cache_note": null
     },
     {
       "id": "jardin-realestate-200",
@@ -2772,6 +2949,122 @@
           "url": "https://jardin.antioquia.in/propiedades/compraventa#h.qtpi5l7lojnh_l",
           "status": "ok",
           "source": "Clasificados Jardín Antioquia"
+        }
+      ]
+    },
+    {
+      "finished_at": "2026-11-12T17:38:29.101763+00:00",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "ok": 18,
+      "errors": 1,
+      "details": [
+        {
+          "source": "Bing RSS discovery",
+          "status": "error",
+          "reason": "Discovery disabled by robots.txt"
+        },
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "status": "ok"
+        },
+        {
+          "source": "Más Verde · anunciante",
+          "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+          "status": "ok"
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "status": "ok"
+        },
+        {
+          "source": "Comercial Inmobiliaria",
+          "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+          "status": "ok"
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "status": "ok"
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras · Paola Ramírez",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+          "status": "ok"
+        },
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "status": "ok"
+        },
+        {
+          "source": "Doomos · MIACTIVO",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "status": "ok"
+        },
+        {
+          "source": "Inmobiliaria Selecta",
+          "url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "status": "ok"
+        },
+        {
+          "source": "Díaz Propiedades",
+          "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+          "status": "ok"
+        },
+        {
+          "source": "Díaz Propiedades",
+          "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "status": "ok"
+        },
+        {
+          "source": "Espacio Urbano",
+          "url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+          "status": "ok"
+        },
+        {
+          "source": "Emisa Soluciones",
+          "url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+          "status": "ok"
+        },
+        {
+          "source": "Jardín Colombia Real Estate",
+          "url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+          "status": "manual",
+          "reason": "Manual review required; prior observation retained"
+        },
+        {
+          "source": "Clasificados Jardín Antioquia",
+          "url": "https://jardin.antioquia.in/propiedades/compraventa#h.qtpi5l7lojnh_l",
+          "status": "manual",
+          "reason": "Manual review required; prior observation retained"
         }
       ]
     }
