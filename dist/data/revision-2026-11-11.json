@@ -1,0 +1,129 @@
+{
+  "at": "2026-11-11T23:08:29.617748+00:00",
+  "method": "documentary_review",
+  "availability_confirmed": false,
+  "summary": {
+    "id": "revision-2026-11-11",
+    "method": "documentary_review",
+    "retained": 4,
+    "added": 9,
+    "price_changes_detected": 0,
+    "availability": "not_confirmed",
+    "note": "Consulta de publicaciones públicas mediante recuperación web, algunas indexadas en fechas anteriores. No confirma vigencia comercial ni sustituye contacto con el vendedor."
+  },
+  "evidence": [
+    {
+      "id": "jardin-1",
+      "url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+      "retrieval_reference": "turn4view2",
+      "price": 580000000,
+      "area": 2160,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-2",
+      "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+      "retrieval_reference": "turn4view3",
+      "price": 395000000,
+      "area": 1890,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-3",
+      "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+      "retrieval_reference": "turn4view0",
+      "price": 330000000,
+      "area": 5340,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-4",
+      "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+      "retrieval_reference": "turn4view1",
+      "price": 300000000,
+      "area": 12000,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-san-bartolo-8595705",
+      "url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+      "retrieval_reference": "turn5view1",
+      "source_cache_note": "hace más de un año",
+      "price": 290000000,
+      "area": 2860,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-arrieros-8203353",
+      "url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+      "retrieval_reference": "turn5view2",
+      "source_cache_note": "hoy",
+      "price": 500000000,
+      "area": 1512,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-verdun-3428504",
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+      "retrieval_reference": "turn6view0",
+      "source_cache_note": "hace tres meses",
+      "price": 658000000,
+      "area": 13670,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-verdun-3428560",
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+      "retrieval_reference": "turn6view1",
+      "source_cache_note": "hace tres meses",
+      "price": 435000000,
+      "area": 4123,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-verdun-3428548",
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+      "retrieval_reference": "turn6view2",
+      "source_cache_note": "hace tres meses",
+      "price": 334000000,
+      "area": 3239,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-verdun-3428529",
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+      "retrieval_reference": "turn6view3",
+      "source_cache_note": "hace tres meses",
+      "price": 365000000,
+      "area": 3698,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-salada-3446176",
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+      "retrieval_reference": "turn7view0",
+      "source_cache_note": "hace tres semanas",
+      "price": 550000000,
+      "area": 5000,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-floresta-839065",
+      "url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+      "retrieval_reference": "turn7view1",
+      "source_cache_note": "hoy",
+      "price": 300000000,
+      "area": 89600,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    },
+    {
+      "id": "jardin-estadio-829258",
+      "url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+      "retrieval_reference": "turn7view2",
+      "source_cache_note": "hoy",
+      "price": 280000000,
+      "area": 600,
+      "result": "publicación recuperada; disponibilidad sin confirmar"
+    }
+  ]
+}

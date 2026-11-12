@@ -1,0 +1,245 @@
+{
+  "checked_at": "2026-11-11T23:36:15.221666+00:00",
+  "preserved_ids": [
+    "jardin-1",
+    "jardin-2",
+    "jardin-3",
+    "jardin-4",
+    "jardin-san-bartolo-8595705",
+    "jardin-arrieros-8203353",
+    "jardin-verdun-3428504",
+    "jardin-verdun-3428560",
+    "jardin-verdun-3428548",
+    "jardin-verdun-3428529",
+    "jardin-salada-3446176",
+    "jardin-floresta-839065",
+    "jardin-estadio-829258"
+  ],
+  "added_ids": [
+    "jardin-selecta-9504419",
+    "jardin-diaz-8015518",
+    "jardin-diaz-8391793",
+    "jardin-buho-1729504",
+    "jardin-emisa-1629339",
+    "jardin-realestate-200",
+    "jardin-local-esmeralda"
+  ],
+  "summary": {
+    "checked_at": "2026-11-11T23:36:15.221666+00:00",
+    "retained": 13,
+    "added": 7,
+    "new_identified_advertisers": 5,
+    "identified_advertisers": 8,
+    "unidentified_listings": 5,
+    "local_contacts": 5,
+    "social_channels": 6,
+    "note": "No se cuentan portales de republicación como anunciantes distintos. Cinco fichas tienen identidad del anunciante pendiente. No se incorporaron publicaciones sociales sin contenido verificable."
+  },
+  "sources": [
+    {
+      "id": "miactivo",
+      "name": "MIACTIVO",
+      "url": "https://miactivo.co/",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Siete fichas también aparecen en otros portales. Se agrupan bajo el mismo anunciante.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "mas-verde",
+      "name": "Más Verde",
+      "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+      "kind": "agency",
+      "scope": "Proyecto en Jardín",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "paola-ramirez",
+      "name": "Paola Ramírez",
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+      "kind": "agency",
+      "scope": "Anunciante en portal",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "selecta",
+      "name": "Inmobiliaria Selecta",
+      "url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/inmobiliariaselecta/",
+          "provenance_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/inmobiliariaselecta.a/",
+          "provenance_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        }
+      ]
+    },
+    {
+      "id": "diaz",
+      "name": "Díaz Propiedades",
+      "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/diazpropiedadesmed/",
+          "provenance_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/diazpropiedadesmedellin/",
+          "provenance_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        }
+      ]
+    },
+    {
+      "id": "buho",
+      "name": "El Búho Inmobiliaria",
+      "url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "emisa",
+      "name": "Emisa Soluciones",
+      "url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "jardin-realestate",
+      "name": "Jardín Colombia Real Estate",
+      "url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "clasificados-jardin",
+      "name": "Anunciante del clasificado · identidad pendiente",
+      "url": "https://jardin.antioquia.in/propiedades/compraventa#h.qtpi5l7lojnh_l",
+      "kind": "classified",
+      "scope": "Clasificado local",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "gold-plus",
+      "name": "Gold Plus Inmobiliaria",
+      "url": "https://jardin.antioquia.in/servicios/inmobiliarias/gold-plus-inmobiliaria",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573205083150",
+      "address": "Carrera 6 #12A-07",
+      "email": "contacto@goldpluscolombia.co",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "official_url": "https://www.goldpluscolombia.co/",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/goldplusinmobiliaria",
+          "provenance_url": "https://www.goldpluscolombia.co/",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@GoldPlusInmobiliaria/shorts",
+          "provenance_url": "https://www.goldpluscolombia.co/",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        }
+      ]
+    },
+    {
+      "id": "la10",
+      "name": "Inmobiliaria La 10",
+      "url": "https://jardin.antioquia.in/servicios/inmobiliarias/inmobiliaria-la-10",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573147463100",
+      "address": "Calle 10 #5-77",
+      "email": "arrendamientosla10@hotmail.com",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "ag",
+      "name": "Asesorías Integrales A.G. SAS",
+      "url": "https://jardin.antioquia.in/servicios/inmobiliarias/asesorias-integrales-a-g-sas",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573128886152",
+      "address": "Cra 4 #8-56",
+      "email": "asesoriasintegerales1212@gmail.com",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "gustavo",
+      "name": "Gustavo Valencia",
+      "url": "https://jardin.antioquia.in/propiedades/agentes-inmobiliarios/gustavo-valencia",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573116329301",
+      "address": "",
+      "email": "",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "wm",
+      "name": "WM Propiedad Raíz",
+      "url": "https://jardin.antioquia.in/propiedades/agentes-inmobiliarios/wm-propiedad-ra%C3%ADz",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573206863063",
+      "address": "",
+      "email": "wmarulanda11@hotmail.com",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    }
+  ],
+  "discarded": [
+    "Gold Plus: catálogo de venta sin fichas visibles en la consulta.",
+    "Instagram y Facebook: lectura pública limitada; se conservan perfiles con procedencia.",
+    "Puntos repetidos del centro de Jardín descartados para las fichas nuevas de Díaz y Jardín Colombia Real Estate.",
+    "Anuncios republicados: agrupados bajo anunciante; no se volvieron a incorporar."
+  ]
+}

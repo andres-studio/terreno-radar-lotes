@@ -1,0 +1,143 @@
+{
+  "checked_at": "2026-11-11T23:24:29.360258+00:00",
+  "summary": {
+    "checked_at": "2026-11-11T23:19:11.284522+00:00",
+    "photos": 32,
+    "with_photos": 13,
+    "links_http200": 13,
+    "with_publisher_coordinates": 12,
+    "official_property_documents_verified": 0
+  },
+  "links": [
+    {
+      "id": "jardin-1",
+      "checked_at": "2026-11-11T23:16:31.067013+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+      "final_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-2",
+      "checked_at": "2026-11-11T23:16:31.067812+00:00",
+      "http_status": 200,
+      "requested_url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+      "final_url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-3",
+      "checked_at": "2026-11-11T23:16:31.068299+00:00",
+      "http_status": 200,
+      "requested_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+      "final_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-4",
+      "checked_at": "2026-11-11T23:16:31.068757+00:00",
+      "http_status": 200,
+      "requested_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+      "final_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-san-bartolo-8595705",
+      "checked_at": "2026-11-11T23:16:31.069792+00:00",
+      "http_status": 200,
+      "requested_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+      "final_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-arrieros-8203353",
+      "checked_at": "2026-11-11T23:16:36.228362+00:00",
+      "http_status": 200,
+      "requested_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+      "final_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-verdun-3428504",
+      "checked_at": "2026-11-11T23:16:36.417390+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+      "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-verdun-3428560",
+      "checked_at": "2026-11-11T23:16:36.977784+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+      "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-verdun-3428548",
+      "checked_at": "2026-11-11T23:16:37.429447+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+      "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-verdun-3428529",
+      "checked_at": "2026-11-11T23:16:39.239327+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+      "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-salada-3446176",
+      "checked_at": "2026-11-11T23:16:40.196055+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+      "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-floresta-839065",
+      "checked_at": "2026-11-11T23:16:41.086643+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+      "final_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    },
+    {
+      "id": "jardin-estadio-829258",
+      "checked_at": "2026-11-11T23:16:41.315302+00:00",
+      "http_status": 200,
+      "requested_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+      "final_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+      "status": "readable",
+      "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+    }
+  ],
+  "geolocation_notes": {
+    "no_coordinates": [
+      "jardin-2"
+    ],
+    "reused_points": [
+      "jardin-4",
+      "jardin-salada-3446176"
+    ]
+  },
+  "documents": {
+    "verified": 0,
+    "reason": "No se dispone de FMI ni documentos o actos que identifiquen inequívocamente el predio."
+  }
+}

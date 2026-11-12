@@ -1,0 +1,58 @@
+name: Monitor y publicar Terreno
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '10 12,22 * * 1-6'
+  workflow_dispatch:
+    inputs:
+      municipio:
+        description: Municipio a rastrear
+        default: Jardín
+        required: true
+      departamento:
+        description: Departamento
+        default: Antioquia
+        required: true
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: terreno-pages
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verificar monitor
+        run: python -m unittest discover -s tests -v
+      - name: Rastrear fuentes públicas
+        env:
+          MUNICIPIO: ${{ inputs.municipio || 'Jardín' }}
+          DEPARTAMENTO: ${{ inputs.departamento || 'Antioquia' }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python scripts/monitor.py --municipio "$MUNICIPIO" --departamento "$DEPARTAMENTO" --discover
+          else
+            python scripts/monitor.py --all
+          fi
+      - name: Guardar historial
+        run: |
+          git config user.name 'terreno-monitor[bot]'
+          git config user.email 'terreno-monitor[bot]@users.noreply.github.com'
+          git add dist/data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualizar observaciones y estado de fuentes'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4

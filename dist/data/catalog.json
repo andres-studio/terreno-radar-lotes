@@ -1,0 +1,3009 @@
+{
+  "schema": 1,
+  "seed_observed_at": "2026-11-02T15:35:00Z",
+  "listings": [
+    {
+      "url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Doomos",
+      "title": "Lote en unidad cerrada · Comfenalco",
+      "id": "jardin-1",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "status": "observed",
+      "sector": "Comfenalco",
+      "price": 580000000,
+      "area": 2160,
+      "kind": "listing",
+      "description": "Precio y área publicados sin variación respecto de la captura inicial. Una publicación coincidente de MIACTIVO (código 8934771) describe glamping con baño, cocineta y jacuzzi: confirmar qué mejoras incluye la venta. Administración anunciada de $140.000. Excluido de las estadísticas de suelo sin mejoras. Documentos y disponibilidad pendientes.",
+      "price_from": false,
+      "area_from": false,
+      "history": [
+        {
+          "at": "2026-11-02T15:35:00Z",
+          "price": 580000000,
+          "area": 2160,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "first_seen_at": "2026-11-02T15:35:00Z",
+      "observation_method": "direct_public_page",
+      "availability_confirmed": false,
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "price": 580000000,
+          "area": 2160,
+          "source_cache_note": "última semana"
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "source_cache_note": null,
+      "includes_building": true,
+      "administration": 140000,
+      "alternate_urls": [
+        "https://miactivo.co/lote-terreno-venta-sector-comfenalco-jardin/8934771"
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-1-1.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260902513102678910417120.jpg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "checked_at": "2026-11-11T23:16:31.067013+00:00"
+        },
+        {
+          "src": "photos/jardin-1-2.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260903063198463410417120.jpg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "checked_at": "2026-11-11T23:16:31.067013+00:00"
+        },
+        {
+          "src": "photos/jardin-1-3.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260903063346695510417120.jpg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "checked_at": "2026-11-11T23:16:31.067013+00:00"
+        },
+        {
+          "src": "photos/jardin-1-4.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260903063380526410417120.jpg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "checked_at": "2026-11-11T23:16:31.067013+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:31.067013+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+        "final_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+      "source_excerpt": "Inmuebles & Avaluo MIACTIVO ofrece para la venta Lotes en Unidad cerrada en el Municipio turístico de Jardín,",
+      "source_description_summary": "El vendedor ofrece un terreno de 2.160 m² en una unidad cerrada de Comfenalco, a unos cinco minutos del parque. Describe relieve semiplano, suministro de agua propio, pozo séptico y un glamping con baño, cocineta y jacuzzi. Señala que debe tramitarse el contador eléctrico y menciona construcciones de hasta dos pisos. Son condiciones anunciadas; requieren respaldo documental.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.582552,
+        "lon": -75.8008747,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "seller_claim",
+            "finding": "El anuncio menciona agua o servicios, pero no aporta contratos de disponibilidad, concesión de agua o permisos de vertimiento verificables.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "miactivo",
+      "advertiser": "MIACTIVO",
+      "advertiser_identified": true
+    },
+    {
+      "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Más Verde · anunciante",
+      "title": "Monte Horeb Jardín Campestre",
+      "id": "jardin-2",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "status": "observed",
+      "sector": "Sector por confirmar",
+      "price": 395000000,
+      "area": 1890,
+      "kind": "project",
+      "description": "Proyecto con varios lotes. Precio desde $395 millones y áreas desde 1.890 m²: mínimos independientes, sin inferir precio por m².",
+      "price_from": true,
+      "area_from": true,
+      "history": [
+        {
+          "at": "2026-11-02T15:35:00Z",
+          "price": 395000000,
+          "area": 1890,
+          "price_from": true,
+          "area_from": true
+        }
+      ],
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "first_seen_at": "2026-11-02T15:35:00Z",
+      "observation_method": "direct_public_page",
+      "availability_confirmed": false,
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "price": 395000000,
+          "area": 1890,
+          "source_cache_note": "última semana"
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "source_cache_note": null,
+      "photos": [
+        {
+          "src": "photos/jardin-2-1.jpg",
+          "original_url": "https://masverdelotes.com/wp-content/uploads/2026/01/lotes-en-venta-en-jardin-antioquia.jpeg",
+          "credit": "Más Verde · anunciante",
+          "source_url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+          "checked_at": "2026-11-11T23:16:31.067812+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:31.067812+00:00",
+        "http_status": 200,
+        "requested_url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+        "final_url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+      "source_excerpt": "Lotes en Jardín Antioquia | Vive en el pueblo más hermoso de Antioquia, Jardín, lotes desde 2000m2 en",
+      "source_description_summary": "Se publicita una parcelación de 69 lotes campestres con áreas desde 1.890 m² y valores desde $395 millones. Se anuncian acceso controlado, vigilancia permanente, vías pavimentadas y redes eléctricas subterráneas, además de respaldo fiduciario. El precio y el área mínimos no identifican una misma unidad. La existencia y alcance de las licencias deben comprobarse por separado.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": null,
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio. La búsqueda del nombre del proyecto devolvió homónimos en otros municipios; no se usaron para acreditar permisos en Jardín.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "pending",
+            "finding": "No se localizó un certificado de tradición asociado al predio.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "pending",
+            "finding": "No se aportó un concepto predial de uso ni una licencia de construcción. La denominación rural o turística del sector no acredita por sí sola un uso autorizado.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "pending",
+            "finding": "No hay soporte documental suficiente para confirmar agua, energía y saneamiento.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "mas-verde",
+      "advertiser": "Más Verde",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-3",
+      "title": "Lote rural · Verdún",
+      "sector": "Verdún",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 330000000,
+      "area": 5340,
+      "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+      "source": "MIACTIVO",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "status": "observed",
+      "kind": "listing",
+      "description": "Área y situación jurídica anunciadas por el vendedor, pendientes de contraste documental. No se ha verificado disponibilidad.",
+      "history": [
+        {
+          "at": "2026-11-02T15:40:00Z",
+          "price": 330000000,
+          "area": 5340
+        }
+      ],
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "first_seen_at": "2026-11-02T15:40:00Z",
+      "observation_method": "direct_public_page",
+      "availability_confirmed": false,
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "price": 330000000,
+          "area": 5340,
+          "source_cache_note": "hace cinco meses"
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "source_cache_note": null,
+      "photos": [
+        {
+          "src": "photos/jardin-3-1.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4NTIwMjUwMzEyMDQzODMyLmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "checked_at": "2026-11-11T23:16:31.068299+00:00"
+        },
+        {
+          "src": "photos/jardin-3-2.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MzIwMjUwMzEyMDQzODMxLmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "checked_at": "2026-11-11T23:16:31.068299+00:00"
+        },
+        {
+          "src": "photos/jardin-3-3.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4NDIwMjUwMzEyMDQzODMyLmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "checked_at": "2026-11-11T23:16:31.068299+00:00"
+        },
+        {
+          "src": "photos/jardin-3-4.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MTIwMjUwMzEyMDQzODMxLmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "checked_at": "2026-11-11T23:16:31.068299+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:31.068299+00:00",
+        "http_status": 200,
+        "requested_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+        "final_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+      "source_excerpt": "Inmuebles & Avaluos MIACTIVO ofrece para la venta Lote en el sector de Verdun en el Municipio turístico",
+      "source_description_summary": "Se ofrece terreno rural de 5.340 m² en Verdún por $330 millones. El vendedor describe topografía ondulada, una distancia de unos diez minutos al parque y propiedad con matrícula individual, sin proindiviso. El área figura sujeta a comprobación en las escrituras.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.576896910220273,
+        "lon": -75.82688142545523,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "pending",
+            "finding": "No se aportó un concepto predial de uso ni una licencia de construcción. La denominación rural o turística del sector no acredita por sí sola un uso autorizado.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "pending",
+            "finding": "No hay soporte documental suficiente para confirmar agua, energía y saneamiento.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "miactivo",
+      "advertiser": "MIACTIVO",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-4",
+      "title": "Lote rural · La Linda",
+      "sector": "La Linda",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 300000000,
+      "area": 12000,
+      "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+      "source": "Comercial Inmobiliaria",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "status": "observed",
+      "kind": "listing",
+      "description": "Área y situación jurídica anunciadas por el vendedor, pendientes de contraste documental. No se ha verificado disponibilidad.",
+      "history": [
+        {
+          "at": "2026-11-02T15:40:00Z",
+          "price": 300000000,
+          "area": 12000
+        }
+      ],
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "first_seen_at": "2026-11-02T15:40:00Z",
+      "observation_method": "direct_public_page",
+      "availability_confirmed": false,
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "price": 300000000,
+          "area": 12000,
+          "source_cache_note": "hace cuatro meses"
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "source_cache_note": null,
+      "photos": [
+        {
+          "src": "photos/jardin-4-1.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMjAyNDEyMTEzNzIwOTU2MzM4ODM1ODc2Ny5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6NTU1LCJoZWlnaHQiOjQxNiwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjF9fX19",
+          "credit": "Comercial Inmobiliaria",
+          "source_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+          "checked_at": "2026-11-11T23:16:31.068757+00:00"
+        },
+        {
+          "src": "photos/jardin-4-2.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/b2024121137209563388358767.jpg",
+          "credit": "Comercial Inmobiliaria",
+          "source_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+          "checked_at": "2026-11-11T23:16:31.068757+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:31.068757+00:00",
+        "http_status": 200,
+        "requested_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+        "final_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+      "source_excerpt": "Inmuebles & Avaluos MIACTIVO ofrece para la venta Lote en el sector de La Linda en el Municipio",
+      "source_description_summary": "La publicación ofrece terreno rural de 12.000 m² en La Linda por $300 millones, a unos cinco minutos del parque. El anunciante señala matrícula individual y que la venta no corresponde a proindiviso. El metraje se presenta pendiente de contraste con las escrituras.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.598813199999999,
+        "lon": -75.8198172,
+        "precision": "reused_publisher_point",
+        "source_url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Este punto se repite en anuncios de distintos sectores. Úsalo solo como referencia; pide un pin o polígono del predio.",
+        "shared_with": [
+          "jardin-salada-3446176"
+        ]
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "pending",
+            "finding": "No se aportó un concepto predial de uso ni una licencia de construcción. La denominación rural o turística del sector no acredita por sí sola un uso autorizado.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "pending",
+            "finding": "No hay soporte documental suficiente para confirmar agua, energía y saneamiento.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "miactivo",
+      "advertiser": "MIACTIVO",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-san-bartolo-8595705",
+      "title": "Lote con cabaña · San Bartolo",
+      "sector": "San Bartolo",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 290000000,
+      "area": 2860,
+      "url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+      "source": "MIACTIVO",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "El anuncio incluye una cabaña de 38 m². El precio corresponde al conjunto y no se usa en estadísticas de suelo sin mejoras. Área del terreno por contrastar en escritura; servicios y disponibilidad pendientes.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 290000000,
+          "area": 2860,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hace más de un año",
+          "price": 290000000,
+          "area": 2860
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "includes_building": true,
+      "built_area": 38,
+      "photos": [
+        {
+          "src": "photos/jardin-san-bartolo-8595705-1.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MTcyMDI1MDMxMjA5MTAzOS5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6OTAwLCJoZWlnaHQiOjY3NSwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjF9fX19",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "checked_at": "2026-11-11T23:16:31.069792+00:00"
+        },
+        {
+          "src": "photos/jardin-san-bartolo-8595705-2.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4OTIwMjUwMzEyMDkxMDM3LmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "checked_at": "2026-11-11T23:16:31.069792+00:00"
+        },
+        {
+          "src": "photos/jardin-san-bartolo-8595705-3.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MjIwMjUwMzEyMDkxMDM1LmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "checked_at": "2026-11-11T23:16:31.069792+00:00"
+        },
+        {
+          "src": "photos/jardin-san-bartolo-8595705-4.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MjIyMDI1MDMxMjA5MTA0MC5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6OTAwLCJoZWlnaHQiOjY3NSwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjF9fX19",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "checked_at": "2026-11-11T23:16:31.069792+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:31.069792+00:00",
+        "http_status": 200,
+        "requested_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+        "final_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+      "source_excerpt": "INMUEBLES & AVALUOS MIACTIVO OFRECE PARA LA VENTA LOTE CON CABAÑA EN LA VEREDA SAN BARTOLO DEL MUNICIPIO",
+      "source_description_summary": "Se vende un terreno de 2.860 m² con una cabaña que incluye dormitorio, baño, cocina sencilla, sala, corredor y zona de ropas. Se anuncia agua veredal y de nacimiento, acceso por carretera destapada con tramos en rieles y entrada para vehículos pequeños. El vendedor indica aproximadamente quince minutos a Jardín y siete a Andes. El precio de $290 millones incluye la construcción.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.628422648821005,
+        "lon": -75.86670686490835,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "seller_claim",
+            "finding": "El anuncio menciona agua o servicios, pero no aporta contratos de disponibilidad, concesión de agua o permisos de vertimiento verificables.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "miactivo",
+      "advertiser": "MIACTIVO",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-arrieros-8203353",
+      "title": "Lote en unidad cerrada · Los Arrieros",
+      "sector": "Los Arrieros",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 500000000,
+      "area": 1512,
+      "url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+      "source": "MIACTIVO",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "El anunciante publica lote de 1.512 m² y administración de $100.000. Las condiciones de construcción y servicios requieren soporte de la parcelación y Planeación; disponibilidad sin confirmar.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 500000000,
+          "area": 1512,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hoy",
+          "price": 500000000,
+          "area": 1512
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "administration": 100000,
+      "photos": [
+        {
+          "src": "photos/jardin-arrieros-8203353-1.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MjIwMjQxMDI0MDgyODI4LmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "checked_at": "2026-11-11T23:16:36.228362+00:00"
+        },
+        {
+          "src": "photos/jardin-arrieros-8203353-2.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MTIwMjQxMDI0MDgyODI3LmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "checked_at": "2026-11-11T23:16:36.228362+00:00"
+        },
+        {
+          "src": "photos/jardin-arrieros-8203353-3.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MTIyMDI0MTAyNDA4MjgzMC5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6OTAwLCJoZWlnaHQiOjY3NSwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjF9fX19",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "checked_at": "2026-11-11T23:16:36.228362+00:00"
+        },
+        {
+          "src": "photos/jardin-arrieros-8203353-4.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTMxMDM4MzIwMjQxMDI0MDgyODI4LmpwZyIsImVkaXRzIjp7InJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6Njc1LCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+          "credit": "MIACTIVO",
+          "source_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "checked_at": "2026-11-11T23:16:36.228362+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:36.228362+00:00",
+        "http_status": 200,
+        "requested_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+        "final_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+      "source_excerpt": "Inmuebles & Avaluo MIACTIVO ofrece para la venta Lotes en Unidad cerrada en el Municipio turístico de Jardín,",
+      "source_description_summary": "Se anuncia un lote de 1.512 m² en una unidad cerrada de Los Arrieros por $500 millones. El vendedor describe topografía semiplana y cercanía al parque, e indica agua propia, pozo séptico y entrega con medidor de agua. Menciona diseño colonial de hasta dos pisos y que el medidor eléctrico debe gestionarse. Estas condiciones de construcción y servicios no se consideran autorizaciones verificadas.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.589889818947885,
+        "lon": -75.81035256385805,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "seller_claim",
+            "finding": "El anuncio menciona agua o servicios, pero no aporta contratos de disponibilidad, concesión de agua o permisos de vertimiento verificables.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "miactivo",
+      "advertiser": "MIACTIVO",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-verdun-3428504",
+      "title": "Lote rural · Verdún · 13.670 m²",
+      "sector": "Verdún",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 658000000,
+      "area": 13670,
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+      "source": "Ciencuadras",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 658000000,
+          "area": 13670,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hace tres meses",
+          "price": 658000000,
+          "area": 13670
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-verdun-3428504-1.jpg",
+          "original_url": "https://images.ciencuadras.com/eyJidWNrZXQiOiJ3d3ctaW1nLWNjIiwia2V5IjoiaW5tdWVibGVzL2ltYWdlcy8zNDI4NTA0L2FiY2JjXzE3NTM4ODU2Mzg5NV9wbGFuYS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6MjAwLCJmaXQiOiJjb3ZlciJ9fX0=",
+          "credit": "Ciencuadras",
+          "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+          "checked_at": "2026-11-11T23:16:36.417390+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:36.417390+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+        "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+      "source_excerpt": "Espectacular lote nativo rodeado de naturaleza y vista panorámica a la imponente cordllera occidental, en zona de alta",
+      "source_description_summary": "La publicación ofrece un terreno de 13.670 m² en Verdún. Describe vistas de montaña, proximidad a Jardín, acceso vehicular interno y por vía pavimentada, explanación y posibilidad de conexión a servicios. El vendedor indica escritura individual. La construcción y los servicios deben contrastarse con documentos; sus afirmaciones comerciales no acreditan permisos.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.593386,
+        "lon": -75.847367,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "seller_claim",
+            "finding": "El anuncio menciona agua o servicios, pero no aporta contratos de disponibilidad, concesión de agua o permisos de vertimiento verificables.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "ciencuadras-825391",
+      "advertiser": "Anunciante 825391 · identidad pendiente",
+      "advertiser_identified": false
+    },
+    {
+      "id": "jardin-verdun-3428560",
+      "title": "Lote rural · Verdún · 4.123 m²",
+      "sector": "Verdún",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 435000000,
+      "area": 4123,
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+      "source": "Ciencuadras",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 435000000,
+          "area": 4123,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hace tres meses",
+          "price": 435000000,
+          "area": 4123
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-verdun-3428560-1.jpg",
+          "original_url": "https://images.ciencuadras.com/eyJidWNrZXQiOiJ3d3ctaW1nLWNjIiwia2V5IjoiaW5tdWVibGVzL2ltYWdlcy8zNDI4NTYwL2FlZmFfMTc1Mzg4Njk0NDVfcGxhbmEuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwLCJoZWlnaHQiOjIwMCwiZml0IjoiY292ZXIifX19",
+          "credit": "Ciencuadras",
+          "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+          "checked_at": "2026-11-11T23:16:36.977784+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:36.977784+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+        "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+      "source_excerpt": "Espectacular lote nativo rodeado de naturaleza y vista panorámica a la imponente cordillera occidental, en zona de alta",
+      "source_description_summary": "La publicación ofrece un terreno de 4.123 m² en Verdún. Describe vistas de montaña, proximidad a Jardín, acceso vehicular interno y por vía pavimentada, explanación y posibilidad de conexión a servicios. El vendedor indica escritura individual. La construcción y los servicios deben contrastarse con documentos; sus afirmaciones comerciales no acreditan permisos.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.593813,
+        "lon": -75.845822,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "seller_claim",
+            "finding": "El anuncio menciona agua o servicios, pero no aporta contratos de disponibilidad, concesión de agua o permisos de vertimiento verificables.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "ciencuadras-825391",
+      "advertiser": "Anunciante 825391 · identidad pendiente",
+      "advertiser_identified": false
+    },
+    {
+      "id": "jardin-verdun-3428548",
+      "title": "Lote rural · Verdún · 3.239 m²",
+      "sector": "Verdún",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 334000000,
+      "area": 3239,
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+      "source": "Ciencuadras",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 334000000,
+          "area": 3239,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hace tres meses",
+          "price": 334000000,
+          "area": 3239
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-verdun-3428548-1.jpg",
+          "original_url": "https://images.ciencuadras.com/eyJidWNrZXQiOiJ3d3ctaW1nLWNjIiwia2V5IjoiaW5tdWVibGVzL2ltYWdlcy8zNDI4NTQ4L2FmY2NfMTc1Mzg4NjY1ODMyX3BsYW5hLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjoyMDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "credit": "Ciencuadras",
+          "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+          "checked_at": "2026-11-11T23:16:37.429447+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:37.429447+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+        "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+      "source_excerpt": "Espectacular lote nativo rodeado de naturaleza y vista panorámica a la imponente cordillera occidental, en zona de alta",
+      "source_description_summary": "La publicación ofrece un terreno de 3.239 m² en Verdún. Describe vistas de montaña, proximidad a Jardín, acceso vehicular interno y por vía pavimentada, explanación y posibilidad de conexión a servicios. El vendedor indica escritura individual. La construcción y los servicios deben contrastarse con documentos; sus afirmaciones comerciales no acreditan permisos.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.59424,
+        "lon": -75.845822,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "seller_claim",
+            "finding": "El anuncio menciona agua o servicios, pero no aporta contratos de disponibilidad, concesión de agua o permisos de vertimiento verificables.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "ciencuadras-825391",
+      "advertiser": "Anunciante 825391 · identidad pendiente",
+      "advertiser_identified": false
+    },
+    {
+      "id": "jardin-verdun-3428529",
+      "title": "Lote rural · Verdún · 3.698 m²",
+      "sector": "Verdún",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 365000000,
+      "area": 3698,
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+      "source": "Ciencuadras",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "Datos de una publicación pública recuperada. Área, escritura individual, servicios y acceso requieren contraste documental. Disponibilidad sin confirmar.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 365000000,
+          "area": 3698,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hace tres meses",
+          "price": 365000000,
+          "area": 3698
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-verdun-3428529-1.jpg",
+          "original_url": "https://images.ciencuadras.com/eyJidWNrZXQiOiJ3d3ctaW1nLWNjIiwia2V5IjoiaW5tdWVibGVzL2ltYWdlcy8zNDI4NTI5L2FlYmVfMTc1Mzg4NjM4NTJfcGxhbmEuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwLCJoZWlnaHQiOjIwMCwiZml0IjoiY292ZXIifX19",
+          "credit": "Ciencuadras",
+          "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+          "checked_at": "2026-11-11T23:16:39.239327+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:39.239327+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+        "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+      "source_excerpt": "Espectacular lote nativo rodeado de naturaleza y vista panorámica a la imponente cordllera occidental, en zona de alta",
+      "source_description_summary": "La publicación ofrece un terreno de 3.698 m² en Verdún. Describe vistas de montaña, proximidad a Jardín, acceso vehicular interno y por vía pavimentada, explanación y posibilidad de conexión a servicios. El vendedor indica escritura individual. La construcción y los servicios deben contrastarse con documentos; sus afirmaciones comerciales no acreditan permisos.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.593852,
+        "lon": -75.845992,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "seller_claim",
+            "finding": "El anuncio menciona agua o servicios, pero no aporta contratos de disponibilidad, concesión de agua o permisos de vertimiento verificables.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "ciencuadras-825391",
+      "advertiser": "Anunciante 825391 · identidad pendiente",
+      "advertiser_identified": false
+    },
+    {
+      "id": "jardin-salada-3446176",
+      "title": "Lote campestre · La Salada · 5.000 m²",
+      "sector": "La Salada",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 550000000,
+      "area": 5000,
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+      "source": "Ciencuadras · Paola Ramírez",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "Anuncio de 5.000 m² en el sector La Salada. Las afirmaciones comerciales sobre proyectos turísticos, documentación y valorización no han sido verificadas. Uso del suelo, servicios y disponibilidad pendientes.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 550000000,
+          "area": 5000,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hace tres semanas",
+          "price": 550000000,
+          "area": 5000
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-salada-3446176-1.jpg",
+          "original_url": "https://images.ciencuadras.com/eyJidWNrZXQiOiJ3d3ctaW1nLWNjIiwia2V5IjoiaW5tdWVibGVzL2ltYWdlcy8zNDQ2MTc2L2FiYmJkX18xNzg1NzcyODc2MTVfcGxhbmEuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwLCJoZWlnaHQiOjIwMCwiZml0IjoiY292ZXIifX19",
+          "credit": "Ciencuadras · Paola Ramírez",
+          "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+          "checked_at": "2026-11-11T23:16:40.196055+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:40.196055+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+        "final_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+      "source_excerpt": "? [VENDO] Lote de Lujo en Jardín, Antioquia – Sector La Salada 5.000 m² | Ubicación Exclusiva |",
+      "source_description_summary": "La oferta describe un lote de 5.000 m² en el entorno de La Salada por $550 millones. Promociona vistas al paisaje cafetero, proximidad al casco urbano y posibilidades residenciales o turísticas. El anunciante afirma tener la documentación al día y disponibilidad para escriturar, pero no aporta aquí una matrícula ni una licencia identificable. Sus expectativas comerciales no acreditan rentabilidad ni uso autorizado.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.598813,
+        "lon": -75.819817,
+        "precision": "reused_publisher_point",
+        "source_url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Este punto se repite en anuncios de distintos sectores. Úsalo solo como referencia; pide un pin o polígono del predio.",
+        "shared_with": [
+          "jardin-4"
+        ]
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "pending",
+            "finding": "No hay soporte documental suficiente para confirmar agua, energía y saneamiento.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "paola-ramirez",
+      "advertiser": "Paola Ramírez",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-floresta-839065",
+      "title": "Lote rural · La Floresta · 8,96 ha",
+      "sector": "La Floresta",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 300000000,
+      "area": 89600,
+      "url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+      "source": "Doomos",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "El anuncio publica 89.600 m² (8,96 hectáreas) por $300 millones. Superficie mucho mayor que las parcelas campestres; no inferir equivalencia de acceso, servicios o edificabilidad. Área y disponibilidad pendientes.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 300000000,
+          "area": 89600,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hoy",
+          "price": 300000000,
+          "area": 89600
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-floresta-839065-1.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr131038420260926123150.jpeg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "checked_at": "2026-11-11T23:16:41.086643+00:00"
+        },
+        {
+          "src": "photos/jardin-floresta-839065-2.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr131038220260926120616.jpeg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "checked_at": "2026-11-11T23:16:41.086643+00:00"
+        },
+        {
+          "src": "photos/jardin-floresta-839065-3.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr131038320260926120617.jpeg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "checked_at": "2026-11-11T23:16:41.086643+00:00"
+        },
+        {
+          "src": "photos/jardin-floresta-839065-4.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr131038120260926120615.jpeg",
+          "credit": "Doomos",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "checked_at": "2026-11-11T23:16:41.086643+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:41.086643+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+        "final_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+      "source_excerpt": "Inmuebles & Avaluos MIACTIVO ofrece para la venta Lote en el sector La Floresta en el Municipio turístico",
+      "source_description_summary": "Se ofrece un predio rural de 89.600 m², equivalentes a 8,96 hectáreas, en La Floresta por $300 millones. El vendedor describe relieve ondulado y una distancia de unos cincuenta y cinco minutos al parque de Jardín. Afirma matrícula individual sin proindiviso y señala que el área debe contrastarse con las escrituras.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.6075825,
+        "lon": -75.7752445,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "pending",
+            "finding": "No se aportó un concepto predial de uso ni una licencia de construcción. La denominación rural o turística del sector no acredita por sí sola un uso autorizado.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "pending",
+            "finding": "No hay soporte documental suficiente para confirmar agua, energía y saneamiento.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "miactivo",
+      "advertiser": "MIACTIVO",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-estadio-829258",
+      "title": "Lote 1 · Sector Estadio · 600 m²",
+      "sector": "Estadio",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "price": 280000000,
+      "area": 600,
+      "url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+      "source": "Doomos · MIACTIVO",
+      "kind": "listing",
+      "status": "observed",
+      "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
+      "observed_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_attempt_at": "2026-11-11T23:19:11.284522+00:00",
+      "last_check_status": "ok",
+      "price_from": false,
+      "area_from": false,
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "source_cache_note": null,
+      "description": "Se registra el lote 1: 600 m² y precio publicado de $280 millones. Otra publicación coincidente anuncia $240 millones bajo condición de pago en efectivo; confirmar vigencia y términos con el vendedor. Los otros lotes mencionados no se cuentan como registros separados. Área y licencias pendientes.",
+      "history": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "price": 280000000,
+          "area": 600,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:08:29.617748+00:00",
+          "method": "public_web_retrieval",
+          "source_cache_note": "hoy",
+          "price": 280000000,
+          "area": 600
+        },
+        {
+          "at": "2026-11-11T23:19:11.284522+00:00",
+          "method": "direct_public_page",
+          "purpose": "enlaces, fotografías, ubicación y afirmaciones documentales"
+        }
+      ],
+      "cash_offer_price": 240000000,
+      "alternate_urls": [
+        "https://www.espaciourbano.com/Ficha.asp?xId=1631532"
+      ],
+      "photos": [
+        {
+          "src": "photos/jardin-estadio-829258-1.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260902510067070610417058.jpg",
+          "credit": "Doomos · MIACTIVO",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "checked_at": "2026-11-11T23:16:41.315302+00:00"
+        },
+        {
+          "src": "photos/jardin-estadio-829258-2.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260902581212179510417058.jpg",
+          "credit": "Doomos · MIACTIVO",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "checked_at": "2026-11-11T23:16:41.315302+00:00"
+        },
+        {
+          "src": "photos/jardin-estadio-829258-3.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260902581249259210417058.jpg",
+          "credit": "Doomos · MIACTIVO",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "checked_at": "2026-11-11T23:16:41.315302+00:00"
+        },
+        {
+          "src": "photos/jardin-estadio-829258-4.jpg",
+          "original_url": "https://images.wasi.co/inmuebles/gr20260902581356781710417058.jpg",
+          "credit": "Doomos · MIACTIVO",
+          "source_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "checked_at": "2026-11-11T23:16:41.315302+00:00"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:16:41.315302+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+        "final_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+        "status": "readable",
+        "result": "Página individual recuperada por HTTPS; disponibilidad de venta sin confirmar."
+      },
+      "original_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+      "source_excerpt": "Inmuebles & Avaluo MIACTIVO ofrece para la venta Lotes en Parcelación cerrada Ecológica en el Municipio turístico de",
+      "source_description_summary": "La publicación agrupa tres lotes cerca del estadio. El registro corresponde al lote 1, de 600 m², anunciado en $280 millones; también se menciona una oferta condicionada de $240 millones al pagar en efectivo. Se citan otras unidades de 640 y 840 m² con precios distintos. El proyecto se describe como una unidad de 58 predios con construcción ecológica; deben confirmarse disponibilidad, condiciones y licencias.",
+      "source_description_label": "Resumen de lo publicado por el vendedor",
+      "source_description_checked_at": "2026-11-11T23:19:11.284522+00:00",
+      "geo": {
+        "lat": 5.5940328,
+        "lon": -75.8132386,
+        "precision": "publisher_point_unverified",
+        "source_url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "note": "Coordenadas publicadas por el portal. No acreditan posición exacta, acceso ni linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:19:11.284522+00:00",
+        "verified_count": 0,
+        "scope": "Se revisó información pública del anuncio; no se aportó certificado de tradición, folio identificable ni acto de licencia vinculado a este predio.",
+        "items": [
+          {
+            "topic": "Identificación del predio",
+            "status": "missing_identifier",
+            "finding": "El código comercial del anuncio no es una matrícula inmobiliaria. No se identificó un FMI ni número predial verificable en las fuentes revisadas.",
+            "next_step": "Solicitar oficina de registro, matrícula inmobiliaria y número predial/catastral."
+          },
+          {
+            "topic": "Propiedad y títulos",
+            "status": "seller_claim",
+            "finding": "El vendedor menciona escritura o matrícula individual; no se ha contrastado con un certificado de tradición.",
+            "next_step": "Solicitar CTL reciente y revisión de titular, gravámenes, limitaciones y antecedentes.",
+            "official_url": "https://certificados.supernotariado.gov.co/certificado"
+          },
+          {
+            "topic": "Parcelación y subdivisión",
+            "status": "pending",
+            "finding": "No se localizó una resolución de licencia con número, fecha, autoridad y predio que permita acreditar su aplicación a este anuncio. No implica que no exista.",
+            "next_step": "Pedir el acto administrativo, planos aprobados y soporte de su vigencia y ejecución; contrastar con Planeación.",
+            "official_url": "https://minvivienda.gov.co/node/1355"
+          },
+          {
+            "topic": "Uso y construcción",
+            "status": "seller_claim",
+            "finding": "Las posibilidades de construir o explotar turismo descritas son afirmaciones comerciales. No se halló un concepto predial de uso ni una licencia de construcción vinculada.",
+            "next_step": "Solicitar norma/uso del suelo por escrito y licencia de construcción cuando corresponda."
+          },
+          {
+            "topic": "Agua y saneamiento",
+            "status": "pending",
+            "finding": "No hay soporte documental suficiente para confirmar agua, energía y saneamiento.",
+            "next_step": "Pedir disponibilidad certificada y permisos aplicables a la solución anunciada.",
+            "official_url": "https://www.corantioquia.gov.co/sistema-de-informacion-geografico-de-corantioquia/"
+          },
+          {
+            "topic": "Impuestos y obligaciones",
+            "status": "pending",
+            "finding": "No se encontraron paz y salvo predial, valorización ni comprobación documental de administración o deudas.",
+            "next_step": "Pedir facturas, paz y salvos y reglamento/estado de cuenta de la parcelación."
+          }
+        ]
+      },
+      "advertiser_id": "miactivo",
+      "advertiser": "MIACTIVO",
+      "advertiser_identified": true
+    },
+    {
+      "id": "jardin-selecta-9504419",
+      "url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Inmobiliaria Selecta",
+      "advertiser_id": "selecta",
+      "advertiser": "Inmobiliaria Selecta",
+      "advertiser_identified": true,
+      "title": "Morro Amarillo · 4.000 m²",
+      "sector": "Morro Amarillo",
+      "price": 600000000,
+      "area": 4000,
+      "kind": "listing",
+      "includes_building": false,
+      "price_from": false,
+      "area_from": false,
+      "description": "El vendedor ofrece un terreno rural con una plataforma de 150 m². Sitúa el acceso a unos 6 km del parque y a 3 km de la carretera principal, cerca del Hotel Patio Bonito. Los tiempos de viaje y el estado de acceso son afirmaciones comerciales. No se aportaron licencias ni certificados prediales.",
+      "source_description_summary": "El vendedor ofrece un terreno rural con una plataforma de 150 m². Sitúa el acceso a unos 6 km del parque y a 3 km de la carretera principal, cerca del Hotel Patio Bonito. Los tiempos de viaje y el estado de acceso son afirmaciones comerciales. No se aportaron licencias ni certificados prediales.",
+      "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_check_status": "ok",
+      "status": "observed",
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "history": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "price": 600000000,
+          "area": 4000,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "method": "direct_public_page",
+          "purpose": "diversificación de fuentes"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "http_status": 200,
+        "requested_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+        "final_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+        "status": "readable",
+        "result": "Página pública recuperada; disponibilidad pendiente"
+      },
+      "photos": [
+        {
+          "src": "photos/jardin-selecta-9504419-1.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMzIxMTc0MjAyNTEwMDMwNDA2MTUuanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Inmobiliaria Selecta",
+          "source_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "checked_at": "2026-11-11T23:33:59.916248+00:00"
+        },
+        {
+          "src": "photos/jardin-selecta-9504419-2.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMzIxMTcxMjAyNTEwMDMwNDA1MTUuanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Inmobiliaria Selecta",
+          "source_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "checked_at": "2026-11-11T23:33:59.916248+00:00"
+        },
+        {
+          "src": "photos/jardin-selecta-9504419-3.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMzIxMTc2MjAyNTEwMDMwNDA2MjUuanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Inmobiliaria Selecta",
+          "source_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "checked_at": "2026-11-11T23:33:59.916248+00:00"
+        },
+        {
+          "src": "photos/jardin-selecta-9504419-4.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMzIxMTc5MjAyNTEwMDMwNDA2MjguanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Inmobiliaria Selecta",
+          "source_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "checked_at": "2026-11-11T23:33:59.916248+00:00"
+        }
+      ],
+      "geo": {
+        "lat": 5.61816399225914,
+        "lon": -75.83237886428834,
+        "precision": "publisher_unverified",
+        "source_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "note": "Coordenada publicada por Selecta. No se comprobó su correspondencia con los linderos."
+      },
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "verified_count": 0,
+        "scope": "Consulta del anuncio público. Sin verificación documental independiente ni confirmación de disponibilidad.",
+        "items": [
+          {
+            "topic": "Identidad y títulos",
+            "status": "missing_identifier",
+            "finding": "No se recibió matrícula inmobiliaria ni certificado de tradición del predio.",
+            "next_step": "Solicitar matrícula, oficina de registro, escritura y certificado reciente."
+          },
+          {
+            "topic": "Licencias y uso del suelo",
+            "status": "pending",
+            "finding": "No se adjuntó una resolución o certificado oficial verificable.",
+            "next_step": "Solicitar licencia aplicable con planos y certificado de uso del suelo de Planeación."
+          },
+          {
+            "topic": "Servicios, acceso y restricciones",
+            "status": "pending",
+            "finding": "No se contrastaron servidumbres, disponibilidad de agua ni restricciones ambientales.",
+            "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "jardin-diaz-8015518",
+      "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Díaz Propiedades",
+      "advertiser_id": "diaz",
+      "advertiser": "Díaz Propiedades",
+      "advertiser_identified": true,
+      "title": "Serranías · 9.300 m²",
+      "sector": "Serranías",
+      "price": 700000000,
+      "area": 9300,
+      "kind": "listing",
+      "includes_building": false,
+      "price_from": false,
+      "area_from": false,
+      "description": "La publicación presenta un lote con agua, vistas abiertas y espacio para camping. Menciona cercanía al casco urbano, transporte y parqueadero para visitantes. La viabilidad de construir o desarrollar un proyecto requiere concepto de Planeación y documentos del predio.",
+      "source_description_summary": "La publicación presenta un lote con agua, vistas abiertas y espacio para camping. Menciona cercanía al casco urbano, transporte y parqueadero para visitantes. La viabilidad de construir o desarrollar un proyecto requiere concepto de Planeación y documentos del predio.",
+      "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_check_status": "ok",
+      "status": "observed",
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "history": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "price": 700000000,
+          "area": 9300,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "method": "direct_public_page",
+          "purpose": "diversificación de fuentes"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "http_status": 200,
+        "requested_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+        "final_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+        "status": "readable",
+        "result": "Página pública recuperada; disponibilidad pendiente"
+      },
+      "photos": [
+        {
+          "src": "photos/jardin-diaz-8015518-1.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzIzMjAyNDA4MjIwNjA5MTguanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+          "checked_at": "2026-11-11T23:33:59.917468+00:00"
+        },
+        {
+          "src": "photos/jardin-diaz-8015518-2.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzI0MjAyNDA4MjIwNjA5MTguanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+          "checked_at": "2026-11-11T23:33:59.917468+00:00"
+        },
+        {
+          "src": "photos/jardin-diaz-8015518-3.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzI1MjAyNDA4MjIwNjA5MTkuanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+          "checked_at": "2026-11-11T23:33:59.917468+00:00"
+        },
+        {
+          "src": "photos/jardin-diaz-8015518-4.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzIxMjAyNDA4MjIwNjA5MTcuanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+          "checked_at": "2026-11-11T23:33:59.917468+00:00"
+        }
+      ],
+      "geo": null,
+      "geo_note": "Se descartó el punto genérico 5.5988132, -75.8198172 del municipio, repetido entre propiedades distintas. Solicitar ubicación predial.",
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "verified_count": 0,
+        "scope": "Consulta del anuncio público. Sin verificación documental independiente ni confirmación de disponibilidad.",
+        "items": [
+          {
+            "topic": "Identidad y títulos",
+            "status": "missing_identifier",
+            "finding": "No se recibió matrícula inmobiliaria ni certificado de tradición del predio.",
+            "next_step": "Solicitar matrícula, oficina de registro, escritura y certificado reciente."
+          },
+          {
+            "topic": "Licencias y uso del suelo",
+            "status": "pending",
+            "finding": "No se adjuntó una resolución o certificado oficial verificable.",
+            "next_step": "Solicitar licencia aplicable con planos y certificado de uso del suelo de Planeación."
+          },
+          {
+            "topic": "Servicios, acceso y restricciones",
+            "status": "pending",
+            "finding": "No se contrastaron servidumbres, disponibilidad de agua ni restricciones ambientales.",
+            "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "jardin-diaz-8391793",
+      "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Díaz Propiedades",
+      "advertiser_id": "diaz",
+      "advertiser": "Díaz Propiedades",
+      "advertiser_identified": true,
+      "title": "Serranía · 3.200 m²",
+      "sector": "Serranía",
+      "price": 320000000,
+      "area": 3200,
+      "kind": "listing",
+      "includes_building": false,
+      "price_from": false,
+      "area_from": false,
+      "description": "El anuncio ofrece un lote campestre con árboles frutales y acceso a agua. Indica proximidad a la zona urbana y al transporte público. No publica soportes de disponibilidad de servicios, uso del suelo ni licencia de subdivisión.",
+      "source_description_summary": "El anuncio ofrece un lote campestre con árboles frutales y acceso a agua. Indica proximidad a la zona urbana y al transporte público. No publica soportes de disponibilidad de servicios, uso del suelo ni licencia de subdivisión.",
+      "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_check_status": "ok",
+      "status": "observed",
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "history": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "price": 320000000,
+          "area": 3200,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "method": "direct_public_page",
+          "purpose": "diversificación de fuentes"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "http_status": 200,
+        "requested_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+        "final_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+        "status": "readable",
+        "result": "Página pública recuperada; disponibilidad pendiente"
+      },
+      "photos": [
+        {
+          "src": "photos/jardin-diaz-8391793-1.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzIxMjAyNTAxMTMwMjI3MDcuanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "checked_at": "2026-11-11T23:33:59.918264+00:00"
+        },
+        {
+          "src": "photos/jardin-diaz-8391793-2.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzIyMjAyNTAxMTMwMjI3MDcuanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "checked_at": "2026-11-11T23:33:59.918264+00:00"
+        },
+        {
+          "src": "photos/jardin-diaz-8391793-3.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzIzMjAyNTAxMTMwMjI3MDguanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "checked_at": "2026-11-11T23:33:59.918264+00:00"
+        },
+        {
+          "src": "photos/jardin-diaz-8391793-4.jpg",
+          "original_url": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nNDI2MzI0MjAyNTAxMTMwMjI3MDguanBnIiwiZWRpdHMiOnsicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjkwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+          "credit": "Díaz Propiedades",
+          "source_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "checked_at": "2026-11-11T23:33:59.918264+00:00"
+        }
+      ],
+      "geo": null,
+      "geo_note": "Se descartó el punto genérico 5.5988132, -75.8198172 del municipio, repetido entre propiedades distintas. Solicitar ubicación predial.",
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "verified_count": 0,
+        "scope": "Consulta del anuncio público. Sin verificación documental independiente ni confirmación de disponibilidad.",
+        "items": [
+          {
+            "topic": "Identidad y títulos",
+            "status": "missing_identifier",
+            "finding": "No se recibió matrícula inmobiliaria ni certificado de tradición del predio.",
+            "next_step": "Solicitar matrícula, oficina de registro, escritura y certificado reciente."
+          },
+          {
+            "topic": "Licencias y uso del suelo",
+            "status": "pending",
+            "finding": "No se adjuntó una resolución o certificado oficial verificable.",
+            "next_step": "Solicitar licencia aplicable con planos y certificado de uso del suelo de Planeación."
+          },
+          {
+            "topic": "Servicios, acceso y restricciones",
+            "status": "pending",
+            "finding": "No se contrastaron servidumbres, disponibilidad de agua ni restricciones ambientales.",
+            "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "jardin-buho-1729504",
+      "url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Espacio Urbano",
+      "advertiser_id": "buho",
+      "advertiser": "El Búho Inmobiliaria",
+      "advertiser_identified": true,
+      "title": "Alejandría · La Salada · proyecto",
+      "sector": "La Salada · Alejandría",
+      "price": 350000000,
+      "area": 4026,
+      "kind": "project",
+      "includes_building": false,
+      "price_from": true,
+      "area_from": true,
+      "description": "El Búho anuncia varios terrenos de 4.026, 5.160, 5.400 y 5.900 m² en el sector Alejandría. Señala relieve ondulado, cercanía al río y unos 1.000 metros hasta el parque. La cabecera publica $350 millones y 4.026 m², pero no asigna precio a cada unidad. Se registra como oferta de varios lotes, excluida de la comparación de $/m². Afirma escrituración completa sin adjuntar el soporte.",
+      "source_description_summary": "El Búho anuncia varios terrenos de 4.026, 5.160, 5.400 y 5.900 m² en el sector Alejandría. Señala relieve ondulado, cercanía al río y unos 1.000 metros hasta el parque. La cabecera publica $350 millones y 4.026 m², pero no asigna precio a cada unidad. Se registra como oferta de varios lotes, excluida de la comparación de $/m². Afirma escrituración completa sin adjuntar el soporte.",
+      "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_check_status": "ok",
+      "status": "observed",
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "history": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "price": 350000000,
+          "area": 4026,
+          "price_from": true,
+          "area_from": true
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "method": "direct_public_page",
+          "purpose": "diversificación de fuentes"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+        "final_url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+        "status": "readable",
+        "result": "Página pública recuperada; disponibilidad pendiente"
+      },
+      "photos": [
+        {
+          "src": "photos/jardin-buho-1729504-1.jpg",
+          "original_url": "https://www.espaciourbano.com/FotosA/1729504_1.jpg",
+          "credit": "Espacio Urbano",
+          "source_url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+          "checked_at": "2026-11-11T23:33:59.918889+00:00"
+        },
+        {
+          "src": "photos/jardin-buho-1729504-2.jpg",
+          "original_url": "https://www.espaciourbano.com/FotosA/1729504_2.jpg",
+          "credit": "Espacio Urbano",
+          "source_url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+          "checked_at": "2026-11-11T23:33:59.918889+00:00"
+        },
+        {
+          "src": "photos/jardin-buho-1729504-3.jpg",
+          "original_url": "https://www.espaciourbano.com/FotosA/1729504_3.jpg",
+          "credit": "Espacio Urbano",
+          "source_url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+          "checked_at": "2026-11-11T23:33:59.918889+00:00"
+        },
+        {
+          "src": "photos/jardin-buho-1729504-4.jpg",
+          "original_url": "https://www.espaciourbano.com/FotosA/1729504_4.jpg",
+          "credit": "Espacio Urbano",
+          "source_url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+          "checked_at": "2026-11-11T23:33:59.918889+00:00"
+        }
+      ],
+      "geo": null,
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "verified_count": 0,
+        "scope": "Consulta del anuncio público. Sin verificación documental independiente ni confirmación de disponibilidad.",
+        "items": [
+          {
+            "topic": "Identidad y títulos",
+            "status": "seller_claim",
+            "finding": "La publicidad afirma escrituras completas; faltan matrículas individuales y certificados.",
+            "next_step": "Solicitar matrícula, oficina de registro, escritura y certificado reciente."
+          },
+          {
+            "topic": "Licencias y uso del suelo",
+            "status": "pending",
+            "finding": "No se adjuntó una resolución o certificado oficial verificable.",
+            "next_step": "Solicitar licencia aplicable con planos y certificado de uso del suelo de Planeación."
+          },
+          {
+            "topic": "Servicios, acceso y restricciones",
+            "status": "pending",
+            "finding": "No se contrastaron servidumbres, disponibilidad de agua ni restricciones ambientales.",
+            "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "jardin-emisa-1629339",
+      "url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Emisa Soluciones",
+      "advertiser_id": "emisa",
+      "advertiser": "Emisa Soluciones",
+      "advertiser_identified": true,
+      "title": "Lote urbano · Estadio Citará · 121 m²",
+      "sector": "Estadio Citará",
+      "price": 340000000,
+      "area": 121,
+      "kind": "listing",
+      "includes_building": false,
+      "price_from": false,
+      "area_from": false,
+      "description": "Emisa ofrece un predio urbano cerca del estadio municipal. Publica medidas de 7 por 17,4 metros, un área total de 121 m² y predial anual de $802.000. Afirma que existe licencia para cinco viviendas en tres niveles; falta obtener la resolución, planos y vigencia. Las medidas y el área deben contrastarse con la escritura.",
+      "source_description_summary": "Emisa ofrece un predio urbano cerca del estadio municipal. Publica medidas de 7 por 17,4 metros, un área total de 121 m² y predial anual de $802.000. Afirma que existe licencia para cinco viviendas en tres niveles; falta obtener la resolución, planos y vigencia. Las medidas y el área deben contrastarse con la escritura.",
+      "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_check_status": "ok",
+      "status": "observed",
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "history": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "price": 340000000,
+          "area": 121,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "method": "direct_public_page",
+          "purpose": "diversificación de fuentes"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+        "final_url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+        "status": "readable",
+        "result": "Página pública recuperada; disponibilidad pendiente"
+      },
+      "photos": [
+        {
+          "src": "photos/jardin-emisa-1629339-1.jpg",
+          "original_url": "https://www.emisasoluciones.com/FotosA/1629339_1.jpg",
+          "credit": "Emisa Soluciones",
+          "source_url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+          "checked_at": "2026-11-11T23:34:31.785181+00:00"
+        },
+        {
+          "src": "photos/jardin-emisa-1629339-2.jpg",
+          "original_url": "https://www.emisasoluciones.com/FotosA/1629339_2.jpg",
+          "credit": "Emisa Soluciones",
+          "source_url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+          "checked_at": "2026-11-11T23:34:31.785181+00:00"
+        },
+        {
+          "src": "photos/jardin-emisa-1629339-3.jpg",
+          "original_url": "https://www.emisasoluciones.com/FotosA/1629339_3.jpg",
+          "credit": "Emisa Soluciones",
+          "source_url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+          "checked_at": "2026-11-11T23:34:31.785181+00:00"
+        },
+        {
+          "src": "photos/jardin-emisa-1629339-4.jpg",
+          "original_url": "https://www.emisasoluciones.com/FotosA/1629339_4.jpg",
+          "credit": "Emisa Soluciones",
+          "source_url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+          "checked_at": "2026-11-11T23:34:31.785181+00:00"
+        }
+      ],
+      "geo": null,
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "verified_count": 0,
+        "scope": "Consulta del anuncio público. Sin verificación documental independiente ni confirmación de disponibilidad.",
+        "items": [
+          {
+            "topic": "Identidad y títulos",
+            "status": "missing_identifier",
+            "finding": "No se recibió matrícula inmobiliaria ni certificado de tradición del predio.",
+            "next_step": "Solicitar matrícula, oficina de registro, escritura y certificado reciente."
+          },
+          {
+            "topic": "Licencias y uso del suelo",
+            "status": "seller_claim",
+            "finding": "El anunciante afirma licencia para cinco viviendas y tres niveles. No aporta número de resolución ni vigencia.",
+            "next_step": "Solicitar licencia aplicable con planos y certificado de uso del suelo de Planeación."
+          },
+          {
+            "topic": "Servicios, acceso y restricciones",
+            "status": "pending",
+            "finding": "No se contrastaron servidumbres, disponibilidad de agua ni restricciones ambientales.",
+            "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "jardin-realestate-200",
+      "url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Jardín Colombia Real Estate",
+      "advertiser_id": "jardin-realestate",
+      "advertiser": "Jardín Colombia Real Estate",
+      "advertiser_identified": true,
+      "title": "Lote con casa tradicional · 200 m²",
+      "sector": "Zona urbana · sector pendiente",
+      "price": 650000000,
+      "area": 200,
+      "kind": "listing",
+      "includes_building": true,
+      "price_from": false,
+      "area_from": false,
+      "description": "Se ofrece un terreno con una casa tradicional antigua para remodelación o eventual nuevo desarrollo. La publicación propone usos residenciales y turísticos, afirma título propio y posibilidad de tres niveles. Esas condiciones proceden del vendedor y necesitan certificados de uso del suelo y revisión de títulos. El precio incluye la construcción existente.",
+      "source_description_summary": "Se ofrece un terreno con una casa tradicional antigua para remodelación o eventual nuevo desarrollo. La publicación propone usos residenciales y turísticos, afirma título propio y posibilidad de tres niveles. Esas condiciones proceden del vendedor y necesitan certificados de uso del suelo y revisión de títulos. El precio incluye la construcción existente.",
+      "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_check_status": "ok",
+      "status": "observed",
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "history": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "price": 650000000,
+          "area": 200,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "method": "direct_public_page",
+          "purpose": "diversificación de fuentes"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "http_status": 200,
+        "requested_url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+        "final_url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+        "status": "readable",
+        "result": "Página pública recuperada; disponibilidad pendiente"
+      },
+      "photos": [
+        {
+          "src": "photos/jardin-realestate-200-1.png",
+          "original_url": "https://static.wixstatic.com/media/fe33c5_2acaf2a5f52b408c85b45cca6972a008~mv2.jpeg/v1/fill/w_720,h_540,q_90,enc_avif,quality_auto/fe33c5_2acaf2a5f52b408c85b45cca6972a008~mv2.jpeg",
+          "credit": "Jardín Colombia Real Estate",
+          "source_url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+          "checked_at": "2026-11-11T23:33:59.919837+00:00"
+        }
+      ],
+      "geo": null,
+      "geo_note": "Se descartó el punto genérico 5.5988132, -75.8198172 del municipio, repetido entre propiedades distintas. Solicitar ubicación predial.",
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "verified_count": 0,
+        "scope": "Consulta del anuncio público. Sin verificación documental independiente ni confirmación de disponibilidad.",
+        "items": [
+          {
+            "topic": "Identidad y títulos",
+            "status": "missing_identifier",
+            "finding": "No se recibió matrícula inmobiliaria ni certificado de tradición del predio.",
+            "next_step": "Solicitar matrícula, oficina de registro, escritura y certificado reciente."
+          },
+          {
+            "topic": "Licencias y uso del suelo",
+            "status": "seller_claim",
+            "finding": "El vendedor afirma que pueden construirse tres niveles; no aporta certificado de norma urbanística.",
+            "next_step": "Solicitar licencia aplicable con planos y certificado de uso del suelo de Planeación."
+          },
+          {
+            "topic": "Servicios, acceso y restricciones",
+            "status": "pending",
+            "finding": "No se contrastaron servidumbres, disponibilidad de agua ni restricciones ambientales.",
+            "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "jardin-local-esmeralda",
+      "url": "https://jardin.antioquia.in/propiedades/compraventa#h.qtpi5l7lojnh_l",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "source": "Clasificados Jardín Antioquia",
+      "advertiser_id": "clasificados-jardin",
+      "advertiser": "Anunciante del clasificado · identidad pendiente",
+      "advertiser_identified": false,
+      "title": "Parcelación La Esmeralda III · 800 m²",
+      "sector": "La Esmeralda III",
+      "price": 240000000,
+      "area": 800,
+      "kind": "listing",
+      "includes_building": false,
+      "price_from": false,
+      "area_from": false,
+      "description": "El clasificado local ofrece un lote a 3,6 km del parque. La publicación, fechada el 3 de diciembre de 2025, muestra $260 millones tachados y $240 millones como precio visible. Se conserva esa fecha antigua de publicación: la consulta actual no confirma disponibilidad. El anunciante no está identificado por nombre. No se recibieron documentos de la parcelación.",
+      "source_description_summary": "El clasificado local ofrece un lote a 3,6 km del parque. La publicación, fechada el 3 de diciembre de 2025, muestra $260 millones tachados y $240 millones como precio visible. Se conserva esa fecha antigua de publicación: la consulta actual no confirma disponibilidad. El anunciante no está identificado por nombre. No se recibieron documentos de la parcelación.",
+      "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "observed_at": "2026-11-11T23:36:15.221666+00:00",
+      "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_attempt_at": "2026-11-11T23:36:15.221666+00:00",
+      "last_check_status": "ok",
+      "status": "observed",
+      "availability_confirmed": false,
+      "observation_method": "direct_public_page",
+      "history": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "price": 240000000,
+          "area": 800,
+          "price_from": false,
+          "area_from": false
+        }
+      ],
+      "consultations": [
+        {
+          "at": "2026-11-11T23:36:15.221666+00:00",
+          "method": "direct_public_page",
+          "purpose": "diversificación de fuentes"
+        }
+      ],
+      "link_check": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "http_status": 200,
+        "requested_url": "https://jardin.antioquia.in/propiedades/compraventa",
+        "final_url": "https://jardin.antioquia.in/propiedades/compraventa",
+        "status": "readable",
+        "result": "Página pública recuperada; disponibilidad pendiente"
+      },
+      "photos": [],
+      "geo": null,
+      "published_at": "2025-12-03",
+      "external_photo_album": "https://photos.app.goo.gl/jGYcMA1AS85P7TLt8",
+      "photo_note": "Álbum enlazado por el clasificado; no se recuperaron sus imágenes.",
+      "purchase_review": {
+        "checked_at": "2026-11-11T23:36:15.221666+00:00",
+        "verified_count": 0,
+        "scope": "Consulta del anuncio público. Sin verificación documental independiente ni confirmación de disponibilidad.",
+        "items": [
+          {
+            "topic": "Identidad y títulos",
+            "status": "missing_identifier",
+            "finding": "No se recibió matrícula inmobiliaria ni certificado de tradición del predio.",
+            "next_step": "Solicitar matrícula, oficina de registro, escritura y certificado reciente."
+          },
+          {
+            "topic": "Licencias y uso del suelo",
+            "status": "pending",
+            "finding": "No se adjuntó una resolución o certificado oficial verificable.",
+            "next_step": "Solicitar licencia aplicable con planos y certificado de uso del suelo de Planeación."
+          },
+          {
+            "topic": "Servicios, acceso y restricciones",
+            "status": "pending",
+            "finding": "No se contrastaron servidumbres, disponibilidad de agua ni restricciones ambientales.",
+            "next_step": "Revisar acceso legal, servicios y determinantes ambientales con ubicación exacta."
+          }
+        ]
+      }
+    }
+  ],
+  "runs": [
+    {
+      "finished_at": "2026-11-02T15:45:25.721863+00:00",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "ok": 0,
+      "errors": 5,
+      "details": [
+        {
+          "source": "Bing RSS discovery",
+          "status": "error",
+          "reason": "robots.txt unavailable; skipped"
+        },
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "status": "error",
+          "reason": "robots.txt unavailable; skipped"
+        },
+        {
+          "source": "Más Verde · anunciante",
+          "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+          "status": "error",
+          "reason": "robots.txt unavailable; skipped"
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "status": "error",
+          "reason": "robots.txt unavailable; skipped"
+        },
+        {
+          "source": "Comercial Inmobiliaria",
+          "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+          "status": "error",
+          "reason": "robots.txt unavailable; skipped"
+        }
+      ]
+    },
+    {
+      "finished_at": "2026-11-11T23:08:29.617748+00:00",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "method": "documentary_review",
+      "ok": 13,
+      "errors": 1,
+      "details": [
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Más Verde · anunciante",
+          "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Comercial Inmobiliaria",
+          "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Ciencuadras · Paola Ramírez",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Doomos · MIACTIVO",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "status": "ok",
+          "method": "public_web_retrieval",
+          "reason": "Publicación recuperada; puede proceder del índice. Disponibilidad sin confirmar."
+        },
+        {
+          "source": "Ciencuadras · ficha 3933009",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3933009",
+          "status": "error",
+          "reason": "Ficha no accesible; no se incorpora precio de un resumen de búsqueda."
+        }
+      ]
+    },
+    {
+      "finished_at": "2026-11-11T23:24:29.360258+00:00",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "method": "direct_public_pages",
+      "ok": 13,
+      "errors": 0,
+      "details": [
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Más Verde · anunciante",
+          "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Comercial Inmobiliaria",
+          "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Ciencuadras · Paola Ramírez",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        },
+        {
+          "source": "Doomos · MIACTIVO",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "status": "ok",
+          "method": "direct_public_page",
+          "reason": "HTTP 200; página individual recuperada. La disponibilidad comercial sigue pendiente."
+        }
+      ]
+    },
+    {
+      "finished_at": "2026-11-11T23:36:15.221666+00:00",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "method": "source_diversification",
+      "ok": 7,
+      "errors": 0,
+      "details": [
+        {
+          "url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "status": "ok",
+          "source": "Inmobiliaria Selecta"
+        },
+        {
+          "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+          "status": "ok",
+          "source": "Díaz Propiedades"
+        },
+        {
+          "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "status": "ok",
+          "source": "Díaz Propiedades"
+        },
+        {
+          "url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+          "status": "ok",
+          "source": "Espacio Urbano"
+        },
+        {
+          "url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+          "status": "ok",
+          "source": "Emisa Soluciones"
+        },
+        {
+          "url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+          "status": "ok",
+          "source": "Jardín Colombia Real Estate"
+        },
+        {
+          "url": "https://jardin.antioquia.in/propiedades/compraventa#h.qtpi5l7lojnh_l",
+          "status": "ok",
+          "source": "Clasificados Jardín Antioquia"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-11-11T23:19:11.284522+00:00",
+  "last_update": {
+    "id": "revision-2026-11-11",
+    "method": "documentary_review",
+    "retained": 4,
+    "added": 9,
+    "price_changes_detected": 0,
+    "availability": "not_confirmed",
+    "note": "Consulta de publicaciones públicas mediante recuperación web, algunas indexadas en fechas anteriores. No confirma vigencia comercial ni sustituye contacto con el vendedor."
+  },
+  "media_update": {
+    "checked_at": "2026-11-11T23:36:15.221666+00:00",
+    "photos": 32,
+    "with_photos": 19,
+    "links_http200": 13,
+    "with_publisher_coordinates": 12,
+    "official_property_documents_verified": 0
+  },
+  "source_registry": [
+    {
+      "id": "miactivo",
+      "name": "MIACTIVO",
+      "url": "https://miactivo.co/",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Siete fichas también aparecen en otros portales. Se agrupan bajo el mismo anunciante.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "mas-verde",
+      "name": "Más Verde",
+      "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+      "kind": "agency",
+      "scope": "Proyecto en Jardín",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "paola-ramirez",
+      "name": "Paola Ramírez",
+      "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+      "kind": "agency",
+      "scope": "Anunciante en portal",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "selecta",
+      "name": "Inmobiliaria Selecta",
+      "url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/inmobiliariaselecta/",
+          "provenance_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/inmobiliariaselecta.a/",
+          "provenance_url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        }
+      ]
+    },
+    {
+      "id": "diaz",
+      "name": "Díaz Propiedades",
+      "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/diazpropiedadesmed/",
+          "provenance_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/diazpropiedadesmedellin/",
+          "provenance_url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        }
+      ]
+    },
+    {
+      "id": "buho",
+      "name": "El Búho Inmobiliaria",
+      "url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "emisa",
+      "name": "Emisa Soluciones",
+      "url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "jardin-realestate",
+      "name": "Jardín Colombia Real Estate",
+      "url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+      "kind": "agency",
+      "scope": "Cobertura en Jardín",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "clasificados-jardin",
+      "name": "Anunciante del clasificado · identidad pendiente",
+      "url": "https://jardin.antioquia.in/propiedades/compraventa#h.qtpi5l7lojnh_l",
+      "kind": "classified",
+      "scope": "Clasificado local",
+      "note": "Publicación consultada. No equivale a certificación jurídica ni reputacional.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "gold-plus",
+      "name": "Gold Plus Inmobiliaria",
+      "url": "https://jardin.antioquia.in/servicios/inmobiliarias/gold-plus-inmobiliaria",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573205083150",
+      "address": "Carrera 6 #12A-07",
+      "email": "contacto@goldpluscolombia.co",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "official_url": "https://www.goldpluscolombia.co/",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/goldplusinmobiliaria",
+          "provenance_url": "https://www.goldpluscolombia.co/",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@GoldPlusInmobiliaria/shorts",
+          "provenance_url": "https://www.goldpluscolombia.co/",
+          "status": "manual_review",
+          "note": "Perfil enlazado por la web del anunciante; publicaciones no verificadas ni rastreadas automáticamente."
+        }
+      ]
+    },
+    {
+      "id": "la10",
+      "name": "Inmobiliaria La 10",
+      "url": "https://jardin.antioquia.in/servicios/inmobiliarias/inmobiliaria-la-10",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573147463100",
+      "address": "Calle 10 #5-77",
+      "email": "arrendamientosla10@hotmail.com",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "ag",
+      "name": "Asesorías Integrales A.G. SAS",
+      "url": "https://jardin.antioquia.in/servicios/inmobiliarias/asesorias-integrales-a-g-sas",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573128886152",
+      "address": "Cra 4 #8-56",
+      "email": "asesoriasintegerales1212@gmail.com",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "gustavo",
+      "name": "Gustavo Valencia",
+      "url": "https://jardin.antioquia.in/propiedades/agentes-inmobiliarios/gustavo-valencia",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573116329301",
+      "address": "",
+      "email": "",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    },
+    {
+      "id": "wm",
+      "name": "WM Propiedad Raíz",
+      "url": "https://jardin.antioquia.in/propiedades/agentes-inmobiliarios/wm-propiedad-ra%C3%ADz",
+      "kind": "local_directory",
+      "scope": "Contacto local · Jardín",
+      "phone": "+573206863063",
+      "address": "",
+      "email": "wmarulanda11@hotmail.com",
+      "note": "Contacto publicado en el directorio local. Sin lote individual incorporado ni disponibilidad confirmada.",
+      "checked_at": "2026-11-11T23:36:15.221666+00:00",
+      "socials": []
+    }
+  ],
+  "diversity_update": {
+    "checked_at": "2026-11-11T23:36:15.221666+00:00",
+    "retained": 13,
+    "added": 7,
+    "new_identified_advertisers": 5,
+    "identified_advertisers": 8,
+    "unidentified_listings": 5,
+    "local_contacts": 5,
+    "social_channels": 6,
+    "note": "No se cuentan portales de republicación como anunciantes distintos. Cinco fichas tienen identidad del anunciante pendiente. No se incorporaron publicaciones sociales sin contenido verificable."
+  }
+}
