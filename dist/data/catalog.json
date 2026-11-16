@@ -9,7 +9,7 @@
       "source": "Doomos",
       "title": "VENTA DE LOTE EN JARDIN, SECTOR COMFENALCO, UD CERRADA",
       "id": "jardin-1",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "status": "observed",
       "sector": "",
       "price": 580000000.0,
@@ -34,7 +34,7 @@
           "area_from": false
         }
       ],
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:35:00Z",
       "observation_method": "direct_public_page",
@@ -90,6 +90,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 580000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 580000000.0,
           "area": null
@@ -209,7 +215,7 @@
       "source": "Más Verde · anunciante",
       "title": "Monte Horeb Jardín Campestre",
       "id": "jardin-2",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "status": "observed",
       "sector": "Sector por confirmar",
       "price": 395000000,
@@ -227,7 +233,7 @@
           "area_from": true
         }
       ],
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:35:00Z",
       "observation_method": "direct_public_page",
@@ -283,6 +289,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 395000000,
+          "area": 1890
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 395000000,
           "area": 1890
@@ -372,7 +384,7 @@
       "area": 5340.0,
       "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
       "source": "MIACTIVO",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "status": "observed",
       "kind": "listing",
       "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
@@ -383,7 +395,7 @@
           "area": 5340
         }
       ],
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:40:00Z",
       "observation_method": "direct_public_page",
@@ -439,6 +451,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 330000000,
+          "area": 5340.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 330000000,
           "area": 5340.0
@@ -556,7 +574,7 @@
       "area": 12000.0,
       "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
       "source": "Comercial Inmobiliaria",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "status": "observed",
       "kind": "listing",
       "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
@@ -567,7 +585,7 @@
           "area": 12000
         }
       ],
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "first_seen_at": "2026-11-02T15:40:00Z",
       "observation_method": "direct_public_page",
@@ -623,6 +641,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 300000000,
+          "area": 12000.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 300000000,
           "area": 12000.0
@@ -732,8 +756,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -801,6 +825,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 290000000,
+          "area": 2860.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 290000000,
           "area": 2860.0
@@ -922,8 +952,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -991,6 +1021,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 500000000,
+          "area": 1512.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 500000000,
           "area": 1512.0
@@ -1112,8 +1148,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -1188,6 +1224,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 658000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 658000000.0,
           "area": null
@@ -1287,8 +1329,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -1363,6 +1405,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 435000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 435000000.0,
           "area": null
@@ -1462,8 +1510,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -1538,6 +1586,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 334000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 334000000.0,
           "area": null
@@ -1637,8 +1691,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -1713,6 +1767,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 365000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 365000000.0,
           "area": null
@@ -1812,8 +1872,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -1888,6 +1948,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 550000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 550000000.0,
           "area": null
@@ -1990,8 +2056,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -2066,6 +2132,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 300000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 300000000.0,
           "area": null
@@ -2186,8 +2258,8 @@
       "kind": "listing",
       "status": "observed",
       "first_seen_at": "2026-11-11T23:08:29.617748+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "price_from": false,
       "area_from": false,
@@ -2262,6 +2334,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 280000000.0,
+          "area": null
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 280000000.0,
           "area": null
@@ -2393,9 +2471,9 @@
       "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "source_description_summary": "El vendedor ofrece un terreno rural con una plataforma de 150 m². Sitúa el acceso a unos 6 km del parque y a 3 km de la carretera principal, cerca del Hotel Patio Bonito. Los tiempos de viaje y el estado de acceso son afirmaciones comerciales. No se aportaron licencias ni certificados prediales.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -2453,6 +2531,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 600000000,
+          "area": 4000.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 600000000,
           "area": 4000.0
@@ -2551,9 +2635,9 @@
       "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "source_description_summary": "La publicación presenta un lote con agua, vistas abiertas y espacio para camping. Menciona cercanía al casco urbano, transporte y parqueadero para visitantes. La viabilidad de construir o desarrollar un proyecto requiere concepto de Planeación y documentos del predio.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -2611,6 +2695,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 700000000,
+          "area": 9300.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 700000000,
           "area": 9300.0
@@ -2703,9 +2793,9 @@
       "description": "Datos publicados por el anunciante; documentos y disponibilidad pendientes de verificación.",
       "source_description_summary": "El anuncio ofrece un lote campestre con árboles frutales y acceso a agua. Indica proximidad a la zona urbana y al transporte público. No publica soportes de disponibilidad de servicios, uso del suelo ni licencia de subdivisión.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -2763,6 +2853,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 320000000,
+          "area": 3200.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 320000000,
           "area": 3200.0
@@ -2855,9 +2951,9 @@
       "description": "El Búho anuncia varios terrenos de 4.026, 5.160, 5.400 y 5.900 m² en el sector Alejandría. Señala relieve ondulado, cercanía al río y unos 1.000 metros hasta el parque. La cabecera publica $350 millones y 4.026 m², pero no asigna precio a cada unidad. Se registra como oferta de varios lotes, excluida de la comparación de $/m². Afirma escrituración completa sin adjuntar el soporte.",
       "source_description_summary": "El Búho anuncia varios terrenos de 4.026, 5.160, 5.400 y 5.900 m² en el sector Alejandría. Señala relieve ondulado, cercanía al río y unos 1.000 metros hasta el parque. La cabecera publica $350 millones y 4.026 m², pero no asigna precio a cada unidad. Se registra como oferta de varios lotes, excluida de la comparación de $/m². Afirma escrituración completa sin adjuntar el soporte.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -2915,6 +3011,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 350000000,
+          "area": 4026.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 350000000,
           "area": 4026.0
@@ -3006,9 +3108,9 @@
       "description": "Emisa ofrece un predio urbano cerca del estadio municipal. Publica medidas de 7 por 17,4 metros, un área total de 121 m² y predial anual de $802.000. Afirma que existe licencia para cinco viviendas en tres niveles; falta obtener la resolución, planos y vigencia. Las medidas y el área deben contrastarse con la escritura.",
       "source_description_summary": "Emisa ofrece un predio urbano cerca del estadio municipal. Publica medidas de 7 por 17,4 metros, un área total de 121 m² y predial anual de $802.000. Afirma que existe licencia para cinco viviendas en tres niveles; falta obtener la resolución, planos y vigencia. Las medidas y el área deben contrastarse con la escritura.",
       "source_description_checked_at": "2026-11-11T23:36:15.221666+00:00",
-      "observed_at": "2026-11-16T15:09:06.251674+00:00",
+      "observed_at": "2026-11-16T22:51:45.209464+00:00",
       "first_seen_at": "2026-11-11T23:36:15.221666+00:00",
-      "last_attempt_at": "2026-11-16T15:09:06.251674+00:00",
+      "last_attempt_at": "2026-11-16T22:51:45.209464+00:00",
       "last_check_status": "ok",
       "status": "observed",
       "availability_confirmed": false,
@@ -3066,6 +3168,12 @@
         },
         {
           "at": "2026-11-16T15:09:06.251674+00:00",
+          "method": "direct_public_page",
+          "price": 340000000,
+          "area": 121.0
+        },
+        {
+          "at": "2026-11-16T22:51:45.209464+00:00",
           "method": "direct_public_page",
           "price": 340000000,
           "area": 121.0
@@ -4298,6 +4406,122 @@
     },
     {
       "finished_at": "2026-11-16T15:09:06.251674+00:00",
+      "city": "Jardín",
+      "department": "Antioquia",
+      "ok": 18,
+      "errors": 1,
+      "details": [
+        {
+          "source": "Bing RSS discovery",
+          "status": "error",
+          "reason": "Discovery disabled by robots.txt"
+        },
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lote-en-jardin-sector-comfenalco-ud-cerrada-4",
+          "status": "ok"
+        },
+        {
+          "source": "Más Verde · anunciante",
+          "url": "https://masverdelotes.com/lotes-en-venta-en-jardin-antioquia/",
+          "status": "ok"
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-vereda-verdun-jardin/8594746",
+          "status": "ok"
+        },
+        {
+          "source": "Comercial Inmobiliaria",
+          "url": "https://comercialinmobiliaria.com.co/lote-terreno-venta-jardin-jardin/9743641",
+          "status": "ok"
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-san-bartolo-jardin/8595705",
+          "status": "ok"
+        },
+        {
+          "source": "MIACTIVO",
+          "url": "https://miactivo.co/lote-terreno-venta-sector-los-arrieros-jardin/8203353",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428504",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428560",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428548",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3428529",
+          "status": "ok"
+        },
+        {
+          "source": "Ciencuadras · Paola Ramírez",
+          "url": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-jardin-jardin-3446176",
+          "status": "ok"
+        },
+        {
+          "source": "Doomos",
+          "url": "https://www.doomos.com.co/propiedad/venta-lote-en-jardin-sector-la-floresta",
+          "status": "ok"
+        },
+        {
+          "source": "Doomos · MIACTIVO",
+          "url": "https://www.doomos.com.co/propiedad/venta-de-lotes-en-jardin-sector-estadio-ud-cerrada-2",
+          "status": "ok"
+        },
+        {
+          "source": "Inmobiliaria Selecta",
+          "url": "https://inmobiliariaselecta.com/lote-terreno-venta-vereda-morro-amarillo-jardin/9504419",
+          "status": "ok"
+        },
+        {
+          "source": "Díaz Propiedades",
+          "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serranias-jardin/8015518",
+          "status": "ok"
+        },
+        {
+          "source": "Díaz Propiedades",
+          "url": "https://diazpropiedadescom.inmo.co/lote-terreno-venta-serrania-jardin/8391793",
+          "status": "ok"
+        },
+        {
+          "source": "Espacio Urbano",
+          "url": "https://www.espaciourbano.com/BR_FichaDetalle_Vivienda.asp?xId=1729504",
+          "status": "ok"
+        },
+        {
+          "source": "Emisa Soluciones",
+          "url": "https://www.emisasoluciones.com/Ficha.asp?xId=1629339",
+          "status": "ok"
+        },
+        {
+          "source": "Jardín Colombia Real Estate",
+          "url": "https://www.jardincolombiarealestate.com/properties-2-1/mixed-use-building",
+          "status": "manual",
+          "reason": "Manual review required; prior observation retained"
+        },
+        {
+          "source": "Clasificados Jardín Antioquia",
+          "url": "https://jardin.antioquia.in/propiedades/compraventa#h.qtpi5l7lojnh_l",
+          "status": "manual",
+          "reason": "Manual review required; prior observation retained"
+        }
+      ]
+    },
+    {
+      "finished_at": "2026-11-16T22:51:45.209464+00:00",
       "city": "Jardín",
       "department": "Antioquia",
       "ok": 18,
